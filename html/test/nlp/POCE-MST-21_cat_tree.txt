@@ -1,0 +1,26 @@
+B	26	1	0	are be before.b binoculars board.a board.b cake.a chalk child directors food.a has.a has.b her his liked likes.a likes.b not of on.a on.b parent.a parent.b sausage.a the.b the.e was.a with.a with.b wood	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C	24	2	0	dad.a mom.a	0 0
+D	24	3	0	before.a daughter.d food.b son.d	0 0 0 0
+E	23	4	0	cake.c sausage.c	0 0
+F	24	5	0	human tool	0 0
+G	22	6	0	daughter.a son.a	0 0
+H	25	7	0	was.b	0
+J	25	8	0	wants	0
+K	22	9	0	dad.e mom.d	0 0
+L	24	10	0	hammer.a saw.c telescope.a	0 0 0
+M	24	11	0	now	0
+N	0	12	0	a.e	0
+O	0	13	0	saw.e	0
+P	25	14	0	is.e	0
+Q	23	15	0	a.a	0
+R	25	16	0	writes.a	0
+S	0	17	0	sees	0
+T	25	18	0	is.d	0
+U	23	19	0	to.a	0
+V	24	20	0	a.c	0
+W	25	21	0	knocked sawed	0 0
+	24	22	0.23	dad.e daughter.a mom.d son.a	0 0 0 0
+	0	23	0.13	a.a cake.c sausage.c to.a	0 0 0 0
+	0	24	0.13	a.c before.a dad.a dad.e daughter.a daughter.d food.b hammer.a human mom.a mom.d now saw.c son.a son.d telescope.a tool	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	26	25	0.13	is.d is.e knocked sawed wants was.b writes.a	0 0 0 0 0 0 0
+	0	26	0.11	are be before.b binoculars board.a board.b cake.a chalk child directors food.a has.a has.b her his is.d is.e knocked liked likes.a likes.b not of on.a on.b parent.a parent.b sausage.a sawed the.b the.e wants was.a was.b with.a with.b wood writes.a	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

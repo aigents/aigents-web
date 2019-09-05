@@ -1,0 +1,2316 @@
+AAB	2230	1	0	darted drifted fled floated galloped hastened hopped leaped marched raced rowed scrambl
+AAC	2229	2	0	bay bedroom cart cave choir clasp coffin conflict cradle desolation ditch drawer dusk e
+AAD	2316	3	0	absorbed adorned aghast alight blinking celebrated choking counting curling cutting dri
+AAE	2222	4	0	chuckle claw exclamation gasp grin grunt lecture moan roar scream shout shriek shrug sh
+AAF	0	5	0	addressed annoyed awaited bid blamed checked forgave greeted introduced opposite pitied re
+AAG	2097	6	0	allan bhaer owl	0 0 0
+AAH	2316	7	0	adoption agreement ancestor architecture arlington bedpost bookcase bowsprit bucket bul
+AAJ	2065	8	0	hastily promptly quietly rapidly	0 0 0 0
+AAK	2149	9	0	comfortable lonesome	0 0
+AAL	2227	10	0	baker brooke carroll crawford cropper cuthbert forbes fraser fred frewen gillis hammon
+AAM	0	11	0	object remain	0 0
+AAN	0	12	0	....v alighted asks beckoned begins belongs brings catches dated deserves expects fails f
+AAO	2229	13	0	barrel log pine stump trap	0 0 0 0 0
+AAP	0	14	0	..y bet deny pretend reckon	0 0 0 0 0
+AAQ	2096	15	0	approaching attacked bald bandaged banquet bare barring bashful beaming blank blower b
+AAR	2316	16	0	beg deserve invite owe suffer	0 0 0 0 0
+AAS	2316	17	0	forgetting wearing	0 0
+AAT	2229	18	0	admiration blessing cooking decision destiny dignity doings dolly favourite folly frig
+AAU	2169	19	0	abraham benjamin buster charlotte elizabeth josie judith lavendar pa stacy sylvia	0 0 
+AAV	2316	20	0	driven thrown	0 0
+AAW	2316	21	0	chill clapping clerk crimson drum lion major nightingale nod ogre rolling scarlet smoo
+AAX	2019	22	0	abruptly absently aloud aside attentively blankly bravely breathlessly calmly cautious
+AAY	2316	23	0	bells bhagat boats boxes bullocks caps cubs dearest farms fathers fortunes haunts home
+AAZ	0	24	0	adjust aggravated airing answering assoil avenge avouch awes bake bind blames blest bores
+ABA	0	25	0	helping letting	0 0
+ABB	2096	26	0	blind bold careless damp dangerous exciting faithful melancholy mysterious old-fashion
+ABC	2285	27	0	enemy lover	0 0
+ABD	2316	28	0	ashes clouds darkness mist muslin purple satin smiles sunlight twilight wave	0 0 0 0 0
+ABE	2060	29	0	anywhere somewhere	0 0
+ABF	2316	30	0	burn dig feed strike whip	0 0 0 0 0
+ABG	2231	31	0	changing sending staying suffering works worrying	0 0 0 0 0 0
+ABH	2316	32	0	cleared counted succeeded tasted	0 0 0 0
+ABJ	2185	33	0	bill chain compliment distance doorway key pile	0 0 0 0 0 0 0
+ABK	2096	34	0	chilly convenient cranky decent delicious disgraceful false familiar famous fashionabl
+ABL	2316	35	0	advantage attack audience beau capacity cent chela discovery dose ending engagement er
+ABM	2092	36	0	badly bitterly	0 0
+ABN	2229	37	0	bridge bush chamber city lake patch	0 0 0 0 0 0
+ABO	2286	38	0	accommodation adornments ammonia appearances attics auctions babby bags bats beatings 
+ABP	2232	39	0	companion niece	0 0
+ABQ	2316	40	0	antlers apples enemies ministers mistakes mothers	0 0 0 0 0 0
+ABR	2316	41	0	advice lessons orders	0 0 0
+ABS	2316	42	0	aaarh abstract affright africa anatomy armies ash-pit babyhood bath-tub bearskin beech
+ABT	2170	43	0	affected bigger colder darker deeper fatter higher kinder larger louder merrier nicer 
+ABU	2146	44	0	rough wet	0 0
+ABV	2228	45	0	abroad abrupt absent absolutely aching acting awake behaving brick cheap chewing defea
+ABW	2316	46	0	accept confess decide discover prove refuse stir suspect	0 0 0 0 0 0 0 0
+ABX	2316	47	0	curled forced snapped	0 0 0
+ABY	2134	48	0	dreadfully terribly	0 0
+ABZ	2094	49	0	abimelech allen archie bab bertha bertie carrier charlotta clemantiny constance cyrill
+ACA	0	50	0	fetch tie wash	0 0 0
+ACB	2316	51	0	adventure mirror number	0 0 0
+ACC	2066	52	0	earth ice sunshine	0 0 0
+ACD	2316	53	0	abide acquire add advise apply approve bury cease choke clap cling continue creep cult
+ACE	2147	54	0	adams adolphus atossa baloo biron ceremony emmeline fatima germany gobbler harry irene
+ACF	2229	55	0	guests parents servants	0 0 0
+ACG	2229	56	0	a.v.i adaptation aelueva after-occasion alphabet amir angles annette apparition ardor 
+ACH	2316	57	0	bloom branches circumstances guards length material memories parts plays points report
+ACJ	2229	58	0	prayers sons tails	0 0 0
+ACK	2316	59	0	grandma morgan	0 0
+ACL	2316	60	0	shown warned	0 0
+ACM	2233	61	0	alec fourth pye	0 0 0
+ACN	2316	62	0	acted behaved cooked detested disliked drunk flown freed granted improved insulted let
+ACO	2316	63	0	prayer speech	0 0
+ACP	2229	64	0	finger leg	0 0
+ACQ	2229	65	0	adventures manners	0 0
+ACR	0	66	0	advancing alder boiling bonfires brooded brooding broods browse bubbled bubbles bubbling 
+ACS	2037	67	0	ambitious awkward beloved conscious cordial cunning dainty deaf dignified dismal disti
+ACT	2316	68	0	abu acorns acquiescing activity aetes agreeing alienating all-surrendering andirons ar
+ACU	2316	69	0	amusing blowing creeping dragging hurrying peeping peering pouring riding sailing star
+ACV	2228	70	0	abominably addicted adjudicated afflicted affliction aflame american annice antiquaria
+ACW	2316	71	0	andrews baxter esther gables lucinda	0 0 0 0 0
+ACX	2134	72	0	angrier beautifully bewildered dazed deeply deserted dismayed distressed embarrassed f
+ACY	2150	73	0	'do accordingly admits afterward alack alas amid anne-girl anon arriving assuredly bad
+ACZ	2316	74	0	acres adoration althea americans anderson architect arrow-shot aspirations assailants 
+ADA	2150	75	0	ahead downstairs farther faster forth nearer upstairs	0 0 0 0 0 0 0
+ADB	0	76	0	becomes sees wears	0 0 0
+ADC	2149	77	0	alive crazy engaged	0 0 0
+ADD	2149	78	0	ashamed disappointed uncomfortable	0 0 0
+ADE	2228	79	0	accustomed capable chained clearly composed devoted doomed everywhere gained greatly h
+ADF	2316	80	0	aeolian airy amounts argentine assorted baby-face backwater bak bedouins bilge blunder
+ADG	2316	81	0	crowded drawn folded wrapped	0 0 0 0
+ADH	2096	82	0	army-coat betrothal brilliantly chestnut chummy clumsy conceited constantly courteous 
+ADJ	2316	83	0	borrow coax drag kick preach scare scold tease	0 0 0 0 0 0 0 0
+ADK	2182	84	0	a-laughing abbots absolute abstracted accompaniment accomplish accomplishments acknowl
+ADL	2228	85	0	blessed horrible	0 0
+ADM	2184	86	0	a-piece a-sitting abiding acacia adopting advising all-round allowances amends analyze
+ADN	2229	87	0	affairs bible breast brow forehead heels ignorance knee knees papers paws pigs prepara
+ADO	2064	88	0	carl nancy nora prigio rosemary timmy	0 0 0 0 0 0
+ADP	2229	89	0	cage carriage conversation cottage graveyard hut kingdom meadow rage shop	0 0 0 0 0 0 
+ADQ	2229	90	0	camp concert gaze moonlight tramp	0 0 0 0 0
+ADR	2316	91	0	adam amos ardshiel austin ay bangs barbaik baucis belltown belsham blouse broth buchan
+ADS	2316	92	0	agitation banks bars blessings changes chaps conditions curtains dangers delights deta
+ADT	2316	93	0	reward thanks	0 0
+ADU	2229	94	0	board cabbage chimney council difficulty entrance mountain poison scent space throne t
+ADV	2171	95	0	arrow dragon flash frost fur hare jackal magician monkey rat sultan weasel woodpecker	
+ADW	2229	96	0	hens lads sisters	0 0 0
+ADX	2146	97	0	magnificent thick	0 0
+ADY	2316	98	0	plans wits	0 0
+ADZ	2316	99	0	chums gentlemen ghosts hunters signs tracks wolves	0 0 0 0 0 0 0
+AEA	2316	100	0	chap season	0 0
+AEB	0	101	0	runs sank shone	0 0 0
+AEC	2234	102	0	gasped produced reflected	0 0 0
+AED	2229	103	0	chariot colors colours confusion desk duties enterprise goodness grounds lap mare min
+AEE	2286	104	0	bits daughters doors features fifty gardens marks mud pages persons pounds saints see
+AEF	2316	105	0	chum doll governor nephew officer pig sailor score self shoe	0 0 0 0 0 0 0 0 0 0
+AEG	0	106	0	frighten prevent spare	0 0 0
+AEH	2295	107	0	bargain bath breathing bundle chances debt eve example explanation fortnight furnitur
+AEJ	0	108	0	leading pulling	0 0
+AEK	2316	109	0	bottle message peace sign warning	0 0 0 0 0
+AEL	2316	110	0	backed bounded crawled dashed dug leaned limped poked popped revealed strode swung to
+AEM	2186	111	0	animals smoke swallow	0 0 0
+AEN	2227	112	0	avery dora hannah priest tit turtle	0 0 0 0 0 0
+AEO	2316	113	0	blows blush brush consent cough crack dive glimpse groan growl hint knock medicine pe
+AEP	2316	114	0	aid flight guest hiding-place houses knowledge parting pranks quarters situation temp
+AEQ	2316	115	0	agree appear belong succeed	0 0 0 0
+AER	2316	116	0	chased woke	0 0
+AES	0	117	0	handed placed	0 0
+AET	2316	118	0	bite lift rise swear	0 0 0 0
+AEU	2187	119	0	cynthia isabel josephine	0 0 0
+AEV	2151	120	0	gathering killing	0 0
+AEW	2059	121	0	christopher freda kaa nat neil norman sam sidney stella	0 0 0 0 0 0 0 0 0
+AEX	2229	122	0	accident alarm cream discussion exercise sting trifle	0 0 0 0 0 0 0
+AEY	2228	123	0	hiding passing stealing	0 0 0
+AEZ	2316	124	0	fingers rooms	0 0
+AFA	2275	125	0	bennett celia cordelia jacob kitty pussy snake	0 0 0 0 0 0 0
+AFB	2067	126	0	instantly	0
+AFC	0	127	0	calling	0
+AFD	2316	128	0	adder almond avalanche balloons balm beacon bedaubing beryls blasphemy blewetts boast
+AFE	2068	129	0	yesterday	0
+AFF	0	130	0	throw	0
+AFG	2316	131	0	a-going abomination according alarming answerable apes artistic audacious begging blo
+AFH	2316	132	0	flushed	0
+AFJ	2316	133	0	below	0
+AFK	2316	134	0	....x a-hoy a-purpose abbey adulation ajar alice-room allardyce almanack amicably anc
+AFL	0	135	0	lines paths	0 0
+AFM	0	136	0	march	0
+AFN	2294	137	0	abundant acceptably affable amazing appropriate appropriately base busily capricious 
+AFO	0	138	0	fellows	0
+AFP	0	139	0	stuff	0
+AFQ	2316	140	0	carefully	0
+AFR	2147	141	0	abel ali alicia alonzo bat beatrice bessie bessy big-horn bowen carol cecilia charlie
+AFS	2316	142	0	aaron actively agitate ancestors annuals auxiliaries babes baby-child bead bead-ring 
+AFT	2149	143	0	fond interested	0 0
+AFU	2316	144	0	akela ambition butter dozen folk inspiration lack methodist presbyterian puss revenge
+AFV	2316	145	0	analogy area artfulness aspersion basin battlements bereft bigness biography bites bl
+AFW	2316	146	0	array assortment bagful balls batch beleaguerment bevy boat-load boatful bout bowlful
+AFX	2064	147	0	chester	0
+AFY	2188	148	0	startled	0
+AFZ	2229	149	0	eating	0
+AGA	2229	150	0	affection beetles cakes charity clover confidence contempt dinners enthusiasm heavens
+AGB	2316	151	0	conduct crane hamilton harriet lindsay missy mortal neighbor penhallow selwyn vance	0
+AGC	2038	152	0	silently swiftly	0 0
+AGD	2094	153	0	aethra agnes allo antaeus anthony aquila arblaster arthur bentley blewett braithwaite
+AGE	0	154	0	possessed	0
+AGF	0	155	0	toward	0
+AGG	0	156	0	bearing dropping entering jest launched loaded plunged poking pour push stuffed trot wee
+AGH	2316	157	0	absurdly accidental acutely afoot agitating alongshore amphibious arrayed ashen aster
+AGJ	2020	158	0	eight eleven nine twenty	0 0 0 0
+AGK	2316	159	0	argue assist befriend boil breathe celebrate chew commit cram curl dabble detest dill
+AGL	0	160	0	carrying	0
+AGM	2235	161	0	setting	0
+AGN	2316	162	0	beings blueberries burnleys canals caring chirp commendation connections damask dead-
+AGO	2229	163	0	beach edge floor glen harbor harbour porch pot sands sofa stove stream top	0 0 0 0 0 
+AGP	0	164	0	accounted adds advisable allows amazes amounted befell behooved characterized commends c
+AGQ	2316	165	0	adopt adored ail antagonized appease appreciated arrested assailed bail beseeches bom
+AGR	2228	166	0	accomplishment aggravating agreeable amiable annie baked brer bridesmaid casting chee
+AGS	2228	167	0	abeam beagle bed-room biting blast boot-jack bouman bubble camel caucus-race churchma
+AGT	0	168	0	tells	0
+AGU	2229	169	0	apron beard bonnet cap cheek cloak paw shawl	0 0 0 0 0 0 0 0
+AGV	2228	170	0	therefore wherever	0 0
+AGW	2316	171	0	adieu amendment applause assignment blunderer carluccio cornet deathlike detachment e
+AGX	2228	172	0	eager impossible necessary willing	0 0 0 0
+AGY	2316	173	0	accompany befallen befriended bewitch challenged chastised clawed confound contradict
+AGZ	2236	174	0	hoped supposed	0 0
+AHA	2144	175	0	fortune supper	0 0
+AHB	2316	176	0	difficulties drowned parted related ruined trusted	0 0 0 0 0 0
+AHC	2295	177	0	address bang bend blaze boon conservatory correspondence crisis date dialogue dust-he
+AHD	0	178	0	cents dollars miles o'clock yards	0 0 0 0 0
+AHE	2316	179	0	approach catching chasing claim command equal grasp grudge guide kissing losing negle
+AHF	2316	180	0	aggrieved agitated appalled available avoided beguiled benefited besieged bitten blur
+AHG	2316	181	0	chief mistress	0 0
+AHH	2316	182	0	a-n-n-e absurdity aegeus aglaia alter availed bah balked beatrix bella blanch burchar
+AHJ	0	183	0	count	0
+AHK	2316	184	0	bark view	0 0
+AHL	2228	185	0	autumn clock dawn daylight midnight noon sunrise sunset	0 0 0 0 0 0 0 0
+AHM	2229	186	0	beasts comrades guard ideas interests maids meals neighbours prospects sake shells si
+AHN	2095	187	0	demi helen	0 0
+AHO	2228	188	0	cheerful difficult furious indignant nervous stiff	0 0 0 0 0 0
+AHP	2316	189	0	by-and-by seal wishing	0 0 0
+AHQ	2150	190	0	joyce jumper peg teddy violet	0 0 0 0 0
+AHR	0	191	0	drops	0
+AHS	2019	192	0	adventurer agitatedly aimlessly airily amusedly andros angela apologetically approvin
+AHT	2316	193	0	choked shivered	0 0
+AHU	2237	194	0	attend pray	0 0
+AHV	2229	195	0	amusement harder	0 0
+AHW	2316	196	0	gazing trembling	0 0
+AHX	2229	197	0	adjutant ann armstrong benson carpenter churchill cluny coxswain craig dorothy englis
+AHY	2286	198	0	assistance betraying boards cheese comment criminal deepest defect dressing eighteen 
+AHZ	2238	199	0	amuse bless cheer obey punish serve	0 0 0 0 0 0
+AJA	2316	200	0	dreamed guessed pretended	0 0 0
+AJB	0	201	0	rang	0
+AJC	2316	202	0	.url. a-n-n acton amidst amusements andy arnett assaulted attributes australia austri
+AJD	2295	203	0	anna aspect bone clump commotion curve dagger direction edition farmhouse firm frolic
+AJE	2037	204	0	brilliant childish commonplace delicate disagreeable dreary fierce good-natured gorge
+AJF	2316	205	0	blinked bounced carved clenched dried frowned glided grasped grumbled hears kicked la
+AJG	2039	206	0	clever honest	0 0
+AJH	2316	207	0	dishes lights	0 0
+AJJ	2069	208	0	actually	0
+AJK	0	209	0	accoutred admiral adorning advertise advertising afloat allurement alms apologize aprons
+AJL	2229	210	0	amazement force haste horror language mood terror	0 0 0 0 0 0 0
+AJM	2229	211	0	attitude china circle court dory frame glow ladder picnic presence recollection remem
+AJN	2316	212	0	airs alphonso aunts characters chatter compliments consequences conviction cot covers
+AJO	2316	213	0	battle crew dread pack regret	0 0 0 0 0
+AJP	0	214	0	acquired assure believes betrayed declares denied deserved doubted dreaded fooling forba
+AJQ	2152	215	0	academy apartments bar barn bowl buggy cabin closet corn-crib cornfield courtyard cov
+AJR	2229	216	0	berries boots cows gloves hats pies potatoes shoes	0 0 0 0 0 0 0 0
+AJS	2316	217	0	emperor sahib soldier	0 0 0
+AJT	2316	218	0	curls hopes pictures	0 0 0
+AJU	2316	219	0	awakened borne brightened burnt cracked described envied fired lighted lit packed pla
+AJV	2316	220	0	adige advent alehouse amend-all analysis announcements ant-hill arhats bankers bishop
+AJW	2239	221	0	difference fuss poetry	0 0 0
+AJX	2227	222	0	adelia andras arnold august ball-carrier barlow barr bob-cat buttercup calista cecil 
+AJY	0	223	0	caused split stirred swallowed tucked	0 0 0 0 0
+AJZ	2212	224	0	needn't shouldn't	0 0
+AKA	2148	225	0	dust sand straw	0 0 0
+AKB	2316	226	0	abounded acknowledged alternated applied argued arose assembling associate betook boa
+AKC	2287	227	0	habit nest	0 0
+AKD	2316	228	0	advertisements ailing averted awarded baptized campaigning charmingly collision comma
+AKE	2316	229	0	ached approached carries consented drives exaggerated hates hugged patted perceived p
+AKF	2229	230	0	blossoms boughs bushes ferns firs walls	0 0 0 0 0 0
+AKG	2229	231	0	bows companions dimples freckles guns horns jewels kisses mice pearls rules sobs stra
+AKH	2316	232	0	jumping leaning lifting missing rubbing stopping touching using	0 0 0 0 0 0 0 0
+AKJ	2040	233	0	don hers hester methodists pat prissy yours	0 0 0 0 0 0 0
+AKK	2174	234	0	art astonishment capital demand disgrace eagerness eldest gladness glory grief humour
+AKL	2316	235	0	attached barked blushed clung complained consoled dealt departed faltered fluttered g
+AKM	2316	236	0	bachelor editor macallister man-cub marr professor rascal scamp turkey wright	0 0 0 0
+AKN	2316	237	0	account romance service trip	0 0 0 0
+AKO	2174	238	0	age fate funeral invitation marriage memory worst	0 0 0 0 0 0 0
+AKP	2149	239	0	careful cruel dreaming grateful lazy shy stupid thankful	0 0 0 0 0 0 0 0
+AKQ	2229	240	0	a-pressing album annes answers argus arks attentions badges barnyard boarding brat br
+AKR	2136	241	0	common gay	0 0
+AKS	0	242	0	acquitted adore aint allude aspired attain bawled beseech bespeak bethink bleed blundere
+AKT	2316	243	0	effort match pie pudding	0 0 0 0
+AKU	0	244	0	adrift an't animadvert ash-root attendant barks based blackened bordered bristle broad-b
+AKV	2297	245	0	advanced boiled crouched descended dived dodged fainted groaned howled knelt leapt li
+AKW	0	246	0	assured chose managed mentioned planned prayed worshipped	0 0 0 0 0 0 0
+AKX	2316	247	0	branch bull	0 0
+AKY	2316	248	0	fault plot style	0 0 0
+AKZ	2229	249	0	card creek elbow hearth heel lantern monster mountains parrot pirate platter shell su
+ALA	2316	250	0	absences accordance agone algebra amberley angeles announcing ante-chamber ante-room 
+ALB	2288	251	0	annie's bergman bolivar boo briggs brooks brusquely chemical chicks cistern creeters 
+ALC	0	252	0	break	0
+ALD	2098	253	0	tiny	0
+ALE	0	254	0	trust	0
+ALF	2316	255	0	glance	0
+ALG	2316	256	0	busy	0
+ALH	2316	257	0	treated	0
+ALJ	2316	258	0	reading	0
+ALK	2229	259	0	teacher	0
+ALL	2153	260	0	witch	0
+ALM	2041	261	0	warm	0
+ALN	2150	262	0	betty	0
+ALO	2150	263	0	nan	0
+ALP	2022	264	0	chatterer	0
+ALQ	2099	265	0	to-day	0
+ALR	2316	266	0	sang	0
+ALS	2188	267	0	troubled	0
+ALT	2229	268	0	town	0
+ALU	0	269	0	abloom ablow adjusting administer agrees ashake astar athrill bank-note bedecked bestrew
+ALV	2316	270	0	apple-tree aspen assembly audible aunty bad-worded barefooted basting beheaded believ
+ALW	2298	271	0	breeze	0
+ALX	2316	272	0	voices	0
+ALY	2213	273	0	mark	0
+ALZ	2228	274	0	singing	0
+AMA	2316	275	0	needs	0
+AMB	2222	276	0	start	0
+AMC	0	277	0	reach	0
+AMD	2150	278	0	meg	0
+AME	2070	279	0	anybody	0
+AMF	2316	280	0	ways	0
+AMG	2154	281	0	several	0
+AMH	2229	282	0	acquaintance appetite attention charge color credit farewell feast fiddle opportunity
+AMJ	2316	283	0	veil	0
+AMK	2316	284	0	abstraction alleging anti-climactic aptitude asserted asserting believing better'n bu
+AML	0	285	0	afforded ale amongst apprentices assume astronomers aught baa-baas befitted blistered ch
+AMM	2229	286	0	artist building butcher coward fisherman fruit heroine host lawyer longing orphan poe
+AMN	2316	287	0	acclivity alley atlantic authors auxiliary biscuits brahmins buccaneers bustling butt
+AMO	2071	288	0	third	0
+AMP	2069	289	0	fairly	0
+AMQ	2240	290	0	silk	0
+AMR	0	291	0	bore	0
+AMS	2023	292	0	tonight	0
+AMT	2223	293	0	further	0
+AMU	2316	294	0	covered	0
+AMV	0	295	0	gives	0
+AMW	2072	296	0	twins	0
+AMX	2095	297	0	robert	0
+AMY	2229	298	0	dreams	0
+AMZ	2316	299	0	figure	0
+ANA	0	300	0	named	0
+ANB	2095	301	0	margaret	0
+ANC	2316	302	0	admonished amuses associates attributed blurted borrows bothers bragged brewed brushe
+AND	0	303	0	weren't	0
+ANE	0	304	0	asking	0
+ANF	2214	305	0	faded	0
+ANG	2087	306	0	itself	0
+ANH	2150	307	0	hooty	0
+ANJ	2316	308	0	recognized	0
+ANK	0	309	0	smell	0
+ANL	2143	310	0	admitted	0
+ANM	2316	311	0	proved	0
+ANN	2316	312	0	abuse abusing addie alcott appointment arrangement assurance bamboo banbury bandage b
+ANO	2316	313	0	abacus aforesaid artless baden-baden bare-headed barometer bearers belonging benedict
+ANP	2316	314	0	easily	0
+ANQ	2308	315	0	ford	0
+ANR	2241	316	0	afterlight anticipation antics apathy armful bales bewitching blythes boluses braids 
+ANS	2286	317	0	advantages awe beauties blight bodies bounds buildings cases chucks closing coffee co
+ANT	0	318	0	whatever	0
+ANU	2316	319	0	admirers agog assembled basins beaches bedlam beets beggar-men beggars booksellers br
+ANV	0	320	0	offer	0
+ANW	2316	321	0	particular	0
+ANX	0	322	0	stuck	0
+ANY	2100	323	0	grey	0
+ANZ	2316	324	0	study	0
+AOA	2316	325	0	baboon battery beginners blasts blocking bourhis commenced conductor conquest cooled 
+AOB	2316	326	0	carter duke garland geraldine grown-ups ham henry hymn jonas lewis reade twin	0 0 0 0
+AOC	2228	327	0	altogether	0
+AOD	0	328	0	egg	0
+AOE	2316	329	0	interrupted	0
+AOF	0	330	0	saved	0
+AOG	2225	331	0	fishing	0
+AOH	2228	332	0	arbour birch-stub biscuit black-and-yellow bleat bog bower brawl carp-fish-tail catar
+AOJ	2042	333	0	ben	0
+AOK	2228	334	0	a-jangle abashed absorbing binding blithe bulrush classmates coughs cozy craving dawn
+AOL	2316	335	0	a-hunting aim apologized attraction beans belly-pain blink bloodhound bowels breasts 
+AOM	0	336	0	aren't	0
+AON	0	337	0	seek	0
+AOO	0	338	0	abhor alfin anastasia appreciate arrange avoid await banish bathe blue-pencil bragging b
+AOP	2215	339	0	charm	0
+AOQ	2242	340	0	babies	0
+AOR	0	341	0	settle	0
+AOS	2316	342	0	gossip	0
+AOT	2299	343	0	evidently	0
+AOU	2316	344	0	mischief	0
+AOV	2316	345	0	examined expressed realized resented studied uttered wasted	0 0 0 0 0 0 0
+AOW	2316	346	0	bones	0
+AOX	0	347	0	lies	0
+AOY	2229	348	0	choice failure job subject	0 0 0 0
+AOZ	2229	349	0	actions actresses armchairs aunties bantams barrens bryants cloud-spirits cottons cra
+APA	2316	350	0	playing	0
+APB	2296	351	0	duck servant	0 0
+APC	2316	352	0	share	0
+APD	2172	353	0	curious	0
+APE	2189	354	0	actress agent author barrier bee career celebration charger colt crop epistle flint g
+APF	0	355	0	adhere adhered adjourned advisor-in-chief akin alluding amble ambled amended analogous a
+APG	0	356	0	lest	0
+APH	2316	357	0	fixed wide	0 0
+APJ	2316	358	0	seized	0
+APK	2173	359	0	amazed astonished disturbed relieved shocked	0 0 0 0 0
+APL	2276	360	0	pieces	0
+APM	0	361	0	....n advises animated babbled blacker blossomed bobbed boisterous bounding busybodies c
+APN	2316	362	0	colour influence	0 0
+APO	2094	363	0	alexina alma caroline charles clare clorinda corona curtis davis edith estella france
+APP	2316	364	0	accusations anticipations assemblies bassets bazars bedrooms belgians bluffs buds bur
+APQ	2228	365	0	dry	0
+APR	2316	366	0	hearing	0
+APS	0	367	0	shake	0
+APT	2226	368	0	ambrose belflower bemis bentwell blacklock blackmore byers callender clarkman connors
+APU	2316	369	0	build ride	0 0
+APV	0	370	0	intend resolved	0 0
+APW	2229	371	0	acacias armchair arrest balm-of-gileads bed-clothes bed-cover beech beeches birch bou
+APX	2229	372	0	absence bouquet bow chin countenance determination disposition education favor flock 
+APY	2227	373	0	america asylum benares bolingbroke boston california californy carlisle carmody charl
+APZ	2316	374	0	nuts	0
+AQA	2316	375	0	abandon abe absorption accidents accuracy aforethought agility aimlessness alacrity a
+AQB	2316	376	0	dancing	0
+AQC	2316	377	0	stolen	0
+AQD	2043	378	0	yellow	0
+AQE	2041	379	0	hot	0
+AQF	2229	380	0	anchorage bareness basement bed-post blood-money boredom bridges brim brows chins cig
+AQG	2316	381	0	upset	0
+AQH	2155	382	0	william	0
+AQJ	2316	383	0	fought	0
+AQK	2316	384	0	accomplice active actor adjacent admirable adorable adverse advocate aeroplane affect
+AQL	2229	385	0	chest mystery pan	0 0 0
+AQM	2044	386	0	ned	0
+AQN	2300	387	0	bloody dick's forforgetting himhimself ii iii iv ix kristen se undertsanding v vi vii
+AQO	2316	388	0	neither	0
+AQP	2316	389	0	a.v.i.s. adjective advertiser alders allans ambush andersons artificial barons beech-
+AQQ	0	390	0	beheld	0
+AQR	2316	391	0	fighting praying	0 0
+AQS	0	392	0	meal	0
+AQT	0	393	0	finding	0
+AQU	2316	394	0	regular	0
+AQV	2316	395	0	battlefield bedding beer-cask beguiling bellah birthdays boar-spear bookshelves bosom
+AQW	0	396	0	acquiring aiming amiss arrive arrives astir balk blunted booked cawing chirped clipped c
+AQX	2178	397	0	months weeks	0 0
+AQY	2228	398	0	puzzled	0
+AQZ	0	399	0	behave manage	0 0
+ARA	2229	400	0	ability abode accord accounts ambitions ankle approval arrival attempts attire battle
+ARB	2316	401	0	lock tear wound	0 0 0
+ARC	2229	402	0	dogs	0
+ARD	0	403	0	row	0
+ARE	2190	404	0	pink	0
+ARF	2229	405	0	anxiety arrangements atmosphere beds bitterness cleverness energy farmers faults game
+ARG	2316	406	0	abercrombie allowance artists ascending badge badness bridget brindle brop brownness 
+ARH	2229	407	0	history punishment purpose sorrow	0 0 0 0
+ARJ	2095	408	0	phil	0
+ARK	2295	409	0	assent banner bray brood budget candle chapel click collection compact corkscrew crot
+ARL	2214	410	0	loving	0
+ARM	2276	411	0	english	0
+ARN	0	412	0	sought	0
+ARO	2316	413	0	admired attended comforted offended	0 0 0 0
+ARP	2316	414	0	ally arch bearer blackness blade bolt breed brief cad chorus covering curtain depth d
+ARQ	0	415	0	accorded addressing assented balanced barking bloomed breathed bursting clicked climbing
+ARR	0	416	0	moving	0
+ARS	0	417	0	fill	0
+ART	2316	418	0	explain	0
+ARU	2295	419	0	abbot acorn admission anniversary baying belle biggest bonfire bravest buccaneer buck
+ARV	2156	420	0	ugly	0
+ARW	2229	421	0	afternoons altar apartment bears bench bulrushes circus coast column committee consci
+ARX	2316	422	0	abbess accusation ads aisle all-loving alleyway allies almanac alsatian alternative a
+ARY	2316	423	0	drank gazed	0 0
+ARZ	0	424	0	swept	0
+ASA	2229	425	0	13th 4 7 .date. .time. accompanying alert allalonestones aragon axe-head balcony bank
+ASB	2316	426	0	quarrel	0
+ASC	2316	427	0	absurdities accents accuser april ascent asiatic attacks awfulness bachelors bandages
+ASD	0	428	0	enjoying	0
+ASE	2316	429	0	alarmed appointed attracted awaiting beaten bewitched charmed cheated cured deceived 
+ASF	0	430	0	achievements adapted aina alfred almonds almās ancestry angus archaic archidej ardan aro
+ASG	2228	431	0	scared	0
+ASH	2296	432	0	ducks	0
+ASJ	2019	433	0	....y angrily anxiously briskly desperately fiercely firmly furiously impatiently pas
+ASK	2316	434	0	appearance conscience imagination	0 0 0
+ASL	2228	435	0	accountable appalling apparent apparently appealing backing bleeding bolder browning 
+ASM	2316	436	0	tales	0
+ASN	2136	437	0	friendly	0
+ASO	0	438	0	expecting	0
+ASP	0	439	0	claws	0
+ASQ	2229	440	0	alice's amulet-case anteroom application arrears ballroom bath-room bed-chamber books
+ASR	2135	441	0	eunice thyra	0 0
+ASS	2316	442	0	awoke escaped	0 0
+AST	2295	443	0	amount balfour candy certainty chat composition creation cushion custom disorder free
+ASU	2316	444	0	copy doubts ideals intention nerves relatives rival secrets waist	0 0 0 0 0 0 0 0 0
+ASV	2301	445	0	happens occurred suited suits worries	0 0 0 0 0
+ASW	2316	446	0	hunted	0
+ASX	2228	447	0	important unusual	0 0
+ASY	2316	448	0	gift sermon	0 0
+ASZ	2229	449	0	admirer amal ao-chung apprentice archives attic battlement beak betrayal boding borde
+ATA	2169	450	0	ahmed alberta ariadne bedford bluntly blushing camilla chuchundra deliberately doris 
+ATB	2277	451	0	alto bewitchment birth-pang borderland christ-child christianity clams clang claymore
+ATC	2228	452	0	driving	0
+ATD	2316	453	0	admire complain convince deceive desert despise dislike disturb fail recognize regard
+ATE	2174	454	0	bag birthday brain character existence future pew plate pocket purse seat	0 0 0 0 0 0
+ATF	0	455	0	wishes	0
+ATG	0	456	0	served	0
+ATH	2316	457	0	opening	0
+ATJ	2316	458	0	angel boarder bridegroom calf comrade doze hawk leather lily marble mole mule pickere
+ATK	2185	459	0	brooch carpet courtship crash defiance gale greeting jug kettle locket measure muff n
+ATL	2316	460	0	swam	0
+ATM	2191	461	0	gentle	0
+ATN	2316	462	0	a-coming abler abstinence account-book administration admittance affectations announc
+ATO	2316	463	0	altered approved attained avenged banished blown captured charged conquered contribut
+ATP	2316	464	0	ended	0
+ATQ	2150	465	0	declare ere fortunately instead maybe moreover nay nevertheless otherwise possibly sh
+ATR	2316	466	0	absurd adding apt becoming collecting courting curly earnest especially keen nasty pi
+ATS	2289	467	0	belonged bowed desired intended lasted rested suffered swore wept	0 0 0 0 0 0 0 0 0
+ATT	2316	468	0	ache attempt howl rush shine stare	0 0 0 0 0 0
+ATU	2316	469	0	babe banners bed-rooms button-holes cane car'line contrition courier cruelty discours
+ATV	2189	470	0	augusta baron buffalo bully clay colonel cowan dame donkey estate fiddler french glea
+ATW	2157	471	0	disappointment relief success	0 0 0
+ATX	2229	472	0	wine	0
+ATY	2278	473	0	iron	0
+ATZ	2228	474	0	absent-minded admonishing adventurous aggravatingly annoying aroused awfully bewilder
+AUA	2316	475	0	imagined	0
+AUB	2316	476	0	acquainted arranged bored contented crushed devoured falls happier idle mixed popular
+AUC	2316	477	0	babu beaver blacksnake clark coyote daniel khan macpherson majesty si stewart wren	0 
+AUD	2316	478	0	afghans annoyance arrows ash badger birches bliss brocade callers circles compass con
+AUE	2316	479	0	clapped clasped fastened fed landed scattered seated	0 0 0 0 0 0 0
+AUF	0	480	0	faces	0
+AUG	2228	481	0	drawing	0
+AUH	2277	482	0	drummer latter longlegs	0 0 0
+AUJ	2316	483	0	lowered painted scratched	0 0 0
+AUK	2096	484	0	desperate sensible serious sleepy sober sore	0 0 0 0 0 0
+AUL	2316	485	0	ating blue-devils bootjack breast-bane checkerboard comings constitution crickets dec
+AUM	2316	486	0	goose	0
+AUN	2228	487	0	breaking falling	0 0
+AUO	2316	488	0	enter	0
+AUP	2316	489	0	acts alpenstocks ancestress antagonist banquets beards booths carcasses cells chantin
+AUQ	2316	490	0	beats conclusion deed draught expedition fireplace generation item kilta lump madness
+AUR	2316	491	0	class	0
+AUS	2316	492	0	anchor archer ass bazaar boaster boot burr cask ceiling clamour contrary crony crush 
+AUT	0	493	0	adjoining ambling arched bobbled bolstered braided bridled briskens bump burns carving c
+AUU	2316	494	0	leader position result sacrifice shame slave weight wheel	0 0 0 0 0 0 0 0
+AUV	2316	495	0	accuse affect aggravate ails behold bothered cheat conquer cuddle direct excite haunt
+AUW	0	496	0	faced	0
+AUX	2316	497	0	elder ruin seeking shelton test	0 0 0 0 0
+AUY	2316	498	0	glanced	0
+AUZ	2316	499	0	advance balance banter bazar canada carleton claus cripple dairy domains egypt elves 
+AVA	0	500	0	least	0
+AVB	2316	501	0	coat	0
+AVC	0	502	0	hated	0
+AVD	2155	503	0	james	0
+AVE	2316	504	0	slipped	0
+AVF	2316	505	0	spot	0
+AVG	0	506	0	bade	0
+AVH	2228	507	0	to-night	0
+AVJ	2316	508	0	cat	0
+AVK	2143	509	0	agreed	0
+AVL	0	510	0	gets	0
+AVM	2095	511	0	amy	0
+AVN	2158	512	0	river	0
+AVO	2316	513	0	standing	0
+AVP	0	514	0	above	0
+AVQ	2061	515	0	five	0
+AVR	2073	516	0	also	0
+AVS	2316	517	0	growing	0
+AVT	0	518	0	jim	0
+AVU	2062	519	0	bowser	0
+AVV	0	520	0	folks	0
+AVW	2316	521	0	moved	0
+AVX	2316	522	0	doubt	0
+AVY	2316	523	0	decided	0
+AVZ	2020	524	0	six	0
+AWA	0	525	0	considered	0
+AWB	2013	526	0	certainly	0
+AWC	2316	527	0	settled	0
+AWD	2150	528	0	alone	0
+AWE	2101	529	0	pale	0
+AWF	2183	530	0	spencer	0
+AWG	2228	531	0	shining	0
+AWH	2064	532	0	sara	0
+AWJ	2316	533	0	return	0
+AWK	2070	534	0	anyone	0
+AWL	2064	535	0	alan	0
+AWM	2316	536	0	book	0
+AWN	2192	537	0	winter	0
+AWO	2316	538	0	eggs	0
+AWP	0	539	0	ray	0
+AWQ	2175	540	0	others	0
+AWR	0	541	0	spent	0
+AWS	2064	542	0	una	0
+AWT	2089	543	0	suggested	0
+AWU	2316	544	0	form	0
+AWV	2316	545	0	trail	0
+AWW	0	546	0	knowing	0
+AWX	2316	547	0	plan	0
+AWY	2316	548	0	seeing	0
+AWZ	2316	549	0	arrived	0
+AXA	2215	550	0	party	0
+AXB	2316	551	0	touch	0
+AXC	0	552	0	nor	0
+AXD	2074	553	0	snow	0
+AXE	0	554	0	chipmunk	0
+AXF	2316	555	0	pass	0
+AXG	0	556	0	stand	0
+AXH	2316	557	0	written	0
+AXJ	2229	558	0	arm	0
+AXK	2228	559	0	easy	0
+AXL	2150	560	0	straight	0
+AXM	2316	561	0	present	0
+AXN	2316	562	0	able	0
+AXO	2136	563	0	silly	0
+AXP	2224	564	0	nodded	0
+AXQ	2063	565	0	$ & 0-448-02741-0 0-448-13721-6 1.50 130 16 1916 25 3 6 8vo .email. a-died a-wanderin
+AXR	2316	566	0	sounded	0
+AXS	2243	567	0	barry	0
+AXT	2144	568	0	dinner	0
+AXU	0	569	0	hanging	0
+AXV	2316	570	0	shadows	0
+AXW	2316	571	0	ceased	0
+AXX	2316	572	0	teach	0
+AXY	2279	573	0	nurse	0
+AXZ	2316	574	0	kissed	0
+AYA	0	575	0	loves	0
+AYB	2045	576	0	terrible	0
+AYC	0	577	0	beyond	0
+AYD	2287	578	0	line	0
+AYE	2229	579	0	rock	0
+AYF	0	580	0	carry	0
+AYG	0	581	0	whether	0
+AYH	2316	582	0	ordered	0
+AYJ	2279	583	0	lama	0
+AYK	2316	584	0	early	0
+AYL	2102	585	0	strength	0
+AYM	2229	586	0	comfort	0
+AYN	2316	587	0	west	0
+AYO	0	588	0	wore	0
+AYP	2228	589	0	besides	0
+AYQ	2316	590	0	slept	0
+AYR	2289	591	0	listened	0
+AYS	2064	592	0	faith	0
+AYT	2316	593	0	temper	0
+AYU	2316	594	0	heavy	0
+AYV	2316	595	0	roses	0
+AYW	2064	596	0	alice	0
+AYX	2103	597	0	closed	0
+AYY	2104	598	0	muttered	0
+AYZ	2316	599	0	cook	0
+AZA	0	600	0	learned	0
+AZB	2060	601	0	somehow	0
+AZC	2288	602	0	joe	0
+AZD	2316	603	0	song	0
+AZE	2244	604	0	worth	0
+AZF	2316	605	0	apple	0
+AZG	2092	606	0	slowly	0
+AZH	2228	607	0	perfectly	0
+AZJ	2316	608	0	continued	0
+AZK	2149	609	0	free	0
+AZL	2035	610	0	felix	0
+AZM	2193	611	0	eliza	0
+AZN	2296	612	0	crow	0
+AZO	2089	613	0	explained	0
+AZP	2229	614	0	paper	0
+AZQ	2316	615	0	waste	0
+AZR	2105	616	0	outside	0
+AZS	2279	617	0	knight	0
+AZT	2183	618	0	lynde	0
+AZU	2316	619	0	expression	0
+AZV	2316	620	0	cast	0
+AZW	0	621	0	thou	0
+AZX	0	622	0	taught	0
+AZY	0	623	0	draw	0
+AZZ	2228	624	0	each	0
+BAA	2075	625	0	finally	0
+BAB	2106	626	0	sorry	0
+BAC	2245	627	0	flower	0
+BAD	2097	628	0	quack	0
+BAE	2316	629	0	stick	0
+BAF	2316	630	0	ate	0
+BAG	2316	631	0	lamp	0
+BAH	2192	632	0	summer	0
+BAJ	2176	633	0	perfect	0
+BAK	2316	634	0	train	0
+BAL	2228	635	0	hook	0
+BAM	2134	636	0	worse	0
+BAN	0	637	0	buried	0
+BAO	2316	638	0	stepped	0
+BAP	0	639	0	whenever	0
+BAQ	2062	640	0	johnny	0
+BAR	2064	641	0	leslie	0
+BAS	2229	642	0	joke	0
+BAT	2316	643	0	blow	0
+BAU	2246	644	0	lord	0
+BAV	0	645	0	missed	0
+BAW	2229	646	0	thomas	0
+BAX	2247	647	0	vanished	0
+BAY	2024	648	0	funny	0
+BAZ	2092	649	0	softly	0
+BBA	2316	650	0	desire	0
+BBB	2316	651	0	burned	0
+BBC	2287	652	0	case	0
+BBD	0	653	0	allow	0
+BBE	2316	654	0	stones	0
+BBF	2216	655	0	matters	0
+BBG	2228	656	0	plain	0
+BBH	2107	657	0	birds	0
+BBJ	2316	658	0	needed	0
+BBK	2194	659	0	food	0
+BBL	2046	660	0	splendid	0
+BBM	2316	661	0	stayed	0
+BBN	2108	662	0	moon	0
+BBO	2316	663	0	won	0
+BBP	0	664	0	creature	0
+BBQ	2229	665	0	hills	0
+BBR	2316	666	0	concluded	0
+BBS	2109	667	0	pride	0
+BBT	0	668	0	hit	0
+BBU	2316	669	0	thrust	0
+BBV	0	670	0	bamboozle basset branched burnishing construes crammed crumbled delved deplored dilated 
+BBW	2316	671	0	blew	0
+BBX	2316	672	0	stop	0
+BBY	0	673	0	begun	0
+BBZ	2316	674	0	tied	0
+BCA	2316	675	0	sounds	0
+BCB	2195	676	0	pair	0
+BCC	2088	677	0	thus	0
+BCD	2316	678	0	whose	0
+BCE	2316	679	0	farm	0
+BCF	2156	680	0	interesting	0
+BCG	2308	681	0	gordon	0
+BCH	2316	682	0	whom	0
+BCJ	2296	683	0	cow	0
+BCK	2075	684	0	presently	0
+BCL	2280	685	0	working	0
+BCM	2159	686	0	stomach	0
+BCN	2153	687	0	wolf	0
+BCO	2076	688	0	tired	0
+BCP	0	689	0	drop	0
+BCQ	2150	690	0	somewhat	0
+BCR	2089	691	0	protested	0
+BCS	0	692	0	turning	0
+BCT	2316	693	0	failed	0
+BCU	2316	694	0	glass	0
+BCV	2228	695	0	sold	0
+BCW	2281	696	0	foot	0
+BCX	0	697	0	state thrill	0 0
+BCY	2110	698	0	castle	0
+BCZ	2195	699	0	piece	0
+BDA	2229	700	0	pain	0
+BDB	2216	701	0	nonsense	0
+BDC	2316	702	0	keeping	0
+BDD	0	703	0	grows	0
+BDE	0	704	0	writing	0
+BDF	2316	705	0	gathered	0
+BDG	2095	706	0	david	0
+BDH	2316	707	0	bought	0
+BDJ	2196	708	0	dance	0
+BDK	2316	709	0	abodes accepting aisles allardyces altos animation annals bandmaster banker barrack-s
+BDL	2010	710	0	anyhow	0
+BDM	2217	711	0	tale	0
+BDN	0	712	0	enjoyed	0
+BDO	2111	713	0	soft	0
+BDP	2296	714	0	hen	0
+BDQ	2229	715	0	devil envy feather honey housekeeper law meat practice shiver speed teaching	0 0 0 0 
+BDR	2087	716	0	thee	0
+BDS	2112	717	0	inquired	0
+BDT	2160	718	0	friday june saturday thursday tuesday wednesday	0 0 0 0 0 0
+BDU	2290	719	0	society	0
+BDV	2150	720	0	both	0
+BDW	2113	721	0	wicked	0
+BDX	2248	722	0	lie	0
+BDY	0	723	0	keeps	0
+BDZ	2150	724	0	kilmeny	0
+BEA	2243	725	0	grant	0
+BEB	2316	726	0	affections angels asters barns barrys benches bills buffaloes bulls buttercups camels
+BEC	2197	727	0	akali albert alloway andersen antagonisn appin ashley aslauga barber barnabas barthol
+BED	0	728	0	within	0
+BEE	2316	729	0	ladies	0
+BEF	2316	730	0	pushed	0
+BEG	0	731	0	pull	0
+BEH	0	732	0	dared	0
+BEJ	2149	733	0	mad	0
+BEK	2213	734	0	jane	0
+BEL	2229	735	0	corn	0
+BEM	2225	736	0	proper	0
+BEN	2149	737	0	rich	0
+BEO	2316	738	0	grave	0
+BEP	2316	739	0	acceptance afghan antecedents anthem antimacassars armlets aspiration assistants back
+BEQ	2100	740	0	gray	0
+BER	0	741	0	hang	0
+BES	2177	742	0	field	0
+BET	2316	743	0	act	0
+BEU	2248	744	0	drink	0
+BEV	2316	745	0	agony army belief condition favour handkerchief interview performance race remark sen
+BEW	0	746	0	respect	0
+BEX	2316	747	0	beggar blossom blot brute bunch butterfly canary clearing cordiality creetur crock de
+BEY	2316	748	0	changed	0
+BEZ	2316	749	0	climbed	0
+BFA	2228	750	0	burning	0
+BFB	2249	751	0	someone	0
+BFC	0	752	0	later	0
+BFD	0	753	0	steal	0
+BFE	2161	754	0	obeyed	0
+BFF	2316	755	0	feathers	0
+BFG	2105	756	0	inside	0
+BFH	2229	757	0	ghost	0
+BFJ	2183	758	0	rachel	0
+BFK	2316	759	0	experience	0
+BFL	2316	760	0	repeated	0
+BFM	0	761	0	accounting beams bow-shot bracelet bulletin cati-corner clattered cob cognac compiling c
+BFN	0	762	0	creatures	0
+BFO	2151	763	0	sleeping	0
+BFP	0	764	0	pick	0
+BFQ	2316	765	0	taste	0
+BFR	0	766	0	hid	0
+BFS	2316	767	0	excuse	0
+BFT	2149	768	0	lonely	0
+BFU	2092	769	0	appealingly beseechingly compassionately considerably corpse-like critically darkly d
+BFV	2316	770	0	single	0
+BFW	2229	771	0	band beads blanket bottom bureau bust cabin-boy collar cord couch dam dyke feature ga
+BFX	0	772	0	offered	0
+BFY	2106	773	0	hungry	0
+BFZ	2316	774	0	mention	0
+BGA	0	775	0	cure	0
+BGB	2178	776	0	minutes	0
+BGC	2184	777	0	large	0
+BGD	2228	778	0	safe	0
+BGE	2316	779	0	bloomer bluffer bowman bricklayer brightening chield cocoanut complimentary conundrum
+BGF	2229	780	0	brothers	0
+BGG	2316	781	0	skin	0
+BGH	2316	782	0	bastard bookworm brunette business-woman businesslike businesswoman byrne canopy cath
+BGJ	2286	783	0	arches brightness bygones cain cards carrots churches derision drudgery drummer-boys 
+BGK	2316	784	0	bird	0
+BGL	2198	785	0	fashion	0
+BGM	2110	786	0	palace	0
+BGN	2302	787	0	putting	0
+BGO	2114	788	0	olivia	0
+BGP	0	789	0	finds	0
+BGQ	2137	790	0	exactly	0
+BGR	2111	791	0	cool	0
+BGS	2229	792	0	books	0
+BGT	0	793	0	admitting ascribes bemoaning bequeathed camooflash connect controlling conveyed cracking
+BGU	2316	794	0	bother	0
+BGV	2316	795	0	appetites authoress barrs bee-pasture buffalers chimneys chores comparative conscienc
+BGW	2316	796	0	lying	0
+BGX	2199	797	0	elliott	0
+BGY	2229	798	0	giant	0
+BGZ	2316	799	0	worn	0
+BHA	2316	800	0	flying	0
+BHB	2316	801	0	page	0
+BHC	0	802	0	boasted borrowed bruised calmed cares collected consulted croup deepened discarded drumm
+BHD	2302	803	0	picking	0
+BHE	2150	804	0	davy	0
+BHF	2229	805	0	delight	0
+BHG	0	806	0	thanked	0
+BHH	2316	807	0	bent	0
+BHJ	2137	808	0	ill	0
+BHK	2138	809	0	ah	0
+BHL	2023	810	0	today	0
+BHM	2316	811	0	000 abated accessible aided alike allowable appealed arbaces arise beckoning belly-de
+BHN	2247	812	0	disappeared	0
+BHO	2225	813	0	square	0
+BHP	2115	814	0	pond	0
+BHQ	2316	815	0	argument axe boldness concern cub devotion dollar envelope exhibition ferry fork garm
+BHR	2229	816	0	minister	0
+BHS	2316	817	0	effect	0
+BHT	2316	818	0	front	0
+BHU	2227	819	0	ambassador appleby auguste averil blanche boulter brig burton caliph capper casimer c
+BHV	0	820	0	towards	0
+BHW	2316	821	0	spell	0
+BHX	2176	822	0	jolly	0
+BHY	2316	823	0	chicken	0
+BHZ	2095	824	0	billy	0
+BJA	0	825	0	consider	0
+BJB	2095	826	0	emily	0
+BJC	2214	827	0	cries	0
+BJD	2149	828	0	fair	0
+BJE	0	829	0	allege amethysts analyze anew annoy anvil apprehend arguments aright arouse articulate a
+BJF	2229	830	0	patience	0
+BJG	2095	831	0	louisa	0
+BJH	2316	832	0	eaten	0
+BJJ	2186	833	0	maiden	0
+BJK	0	834	0	douglas	0
+BJL	2150	835	0	paddy	0
+BJM	2316	836	0	hidden	0
+BJN	2116	837	0	campbell	0
+BJO	2228	838	0	laughter	0
+BJP	2299	839	0	mighty	0
+BJQ	0	840	0	unless	0
+BJR	2064	841	0	patty	0
+BJS	2013	842	0	surely	0
+BJT	2316	843	0	cover	0
+BJU	2316	844	0	fancy	0
+BJV	0	845	0	adopted advised blinded breaks cheered clutched confronted delivered grabbed guided haun
+BJW	2150	846	0	bagheera	0
+BJX	2150	847	0	admiringly attorney bailiff banging brokenly chokily condall contritely darby delight
+BJY	2316	848	0	stole	0
+BJZ	0	849	0	calls	0
+BKA	2150	850	0	less	0
+BKB	0	851	0	angle arts attainment background backyard barrels billows capful caus center chimney-cor
+BKC	2228	852	0	either	0
+BKD	2229	853	0	war	0
+BKE	2296	854	0	deer	0
+BKF	2225	855	0	grand	0
+BKG	2316	856	0	rode	0
+BKH	0	857	0	tossed	0
+BKJ	2225	858	0	whistle	0
+BKK	0	859	0	a-plenty abundance accent acceptances accumulation ace arc aroma article aware banner-st
+BKL	2228	860	0	immediately	0
+BKM	0	861	0	nights	0
+BKN	2316	862	0	shaking	0
+BKO	2199	863	0	marshall	0
+BKP	2316	864	0	secret	0
+BKQ	2218	865	0	commanded	0
+BKR	2228	866	0	possible	0
+BKS	2222	867	0	shock sigh	0 0
+BKT	2316	868	0	spoiled	0
+BKU	0	869	0	beneath	0
+BKV	2190	870	0	evil	0
+BKW	2316	871	0	cloud	0
+BKX	2238	872	0	save	0
+BKY	2177	873	0	fields	0
+BKZ	2077	874	0	meanwhile	0
+BLA	2316	875	0	dresses	0
+BLB	0	876	0	helped	0
+BLC	2316	877	0	crown	0
+BLD	2316	878	0	walking	0
+BLE	2316	879	0	knocked	0
+BLF	2184	880	0	low	0
+BLG	2296	881	0	beast	0
+BLH	2316	882	0	cup	0
+BLJ	2316	883	0	shed	0
+BLK	2229	884	0	george	0
+BLL	2047	885	0	ourselves	0
+BLM	2228	886	0	fresh	0
+BLN	0	887	0	afford	0
+BLO	2095	888	0	paul	0
+BLP	2316	889	0	ant ape balloon berth bond carcass caskets chalk chink clue codfish complacency confe
+BLQ	2316	890	0	eagerly	0
+BLR	2150	891	0	afterwards	0
+BLS	2288	892	0	murray	0
+BLT	2154	893	0	seven	0
+BLU	2218	894	0	begged	0
+BLV	2183	895	0	adair alexander allonby barker barrett bedonebyasyoudid blake bowes boyd braddon brew
+BLW	2316	896	0	instant	0
+BLX	2316	897	0	join	0
+BLY	0	898	0	visited	0
+BLZ	2239	899	0	mistake	0
+BMA	2117	900	0	plenty	0
+BMB	2316	901	0	acquaintances appleyard bedtick beggar-woman blacquiere boilers booth brass cannon ca
+BMC	2229	902	0	fence	0
+BMD	0	903	0	risk	0
+BME	2229	904	0	thoughts	0
+BMF	2303	905	0	cost	0
+BMG	2280	906	0	locked	0
+BMH	2042	907	0	daisy	0
+BMJ	0	908	0	accompanied alliterative alluded angered angled applies attempted beaumont bewilder bidd
+BMK	2316	909	0	danced	0
+BML	2137	910	0	asleep	0
+BMM	0	911	0	cause	0
+BMN	2316	912	0	hunting	0
+BMO	2228	913	0	clean	0
+BMP	2316	914	0	escape	0
+BMQ	2218	915	0	observed	0
+BMR	2229	916	0	bank	0
+BMS	2114	917	0	martha	0
+BMT	0	918	0	appreciation canadians constancy correctly covetous deceptive discoveries dissimilar dol
+BMU	2197	919	0	acquirement aids ankus aristocrats awaits barbara boulters brownie bullets cadmus coa
+BMV	2229	920	0	youth	0
+BMW	2159	921	0	neck	0
+BMX	2135	922	0	salome	0
+BMY	0	923	0	bringing	0
+BMZ	0	924	0	hung	0
+BNA	0	925	0	abused abuses appall befall behaves belted boils c-coaxed caddy chooses chug-a-rum clips
+BNB	0	926	0	poured	0
+BNC	0	927	0	feels	0
+BND	2107	928	0	woods	0
+BNE	0	929	0	giving	0
+BNF	2223	930	0	general	0
+BNG	0	931	0	accosted accuses acquires admires adores aimed aims averred bestrode braced buffetted ch
+BNH	2316	932	0	roll	0
+BNJ	2316	933	0	aged banged capering catechize complaining crowing differ exercised flapped flop grum
+BNK	0	934	0	accepted	0
+BNL	0	935	0	anchored anticipate anticipated assumed beamed bellowed bestow blazed centred clasping c
+BNM	2229	936	0	ingleside office station	0 0 0
+BNN	2212	937	0	mustn't	0
+BNO	2316	938	0	paused	0
+BNP	2228	939	0	grace	0
+BNQ	2078	940	0	grinned	0
+BNR	2316	941	0	ailed aileth arching betoken blinds booted canst espy fairness fasting feats flavorin
+BNS	2316	942	0	judge	0
+BNT	0	943	0	animal	0
+BNU	2316	944	0	places	0
+BNV	0	945	0	amused	0
+BNW	2316	946	0	washed	0
+BNX	0	947	0	spoil	0
+BNY	2316	948	0	broken	0
+BNZ	2227	949	0	aladdin amelia bob catherine cyrus despair dwarf elinor gerda hatch jamesina jaquelin
+BOA	2291	950	0	neighbors	0
+BOB	2139	951	0	street	0
+BOC	0	952	0	hunt	0
+BOD	2316	953	0	achieved adjusted admiring aerial ankle-deep appears bared basked brandished buying c
+BOE	2316	954	0	cared	0
+BOF	2149	955	0	burden concerned convinced dumb dying jealous noted vain	0 0 0 0 0 0 0 0
+BOG	0	956	0	lose	0
+BOH	2275	957	0	ada avis belinda berton blackley braxton c'rona copp crocker dickenson dix doasyouwou
+BOJ	2200	958	0	dr	0
+BOK	2316	959	0	eagle	0
+BOL	2250	960	0	sword	0
+BOM	2048	961	0	thy	0
+BON	2079	962	0	heaven	0
+BOO	2316	963	0	sell	0
+BOP	0	964	0	lend	0
+BOQ	0	965	0	recovered	0
+BOR	2020	966	0	twelve	0
+BOS	0	967	0	chase discuss fix flirt receive satisfy	0 0 0 0 0 0
+BOT	2316	968	0	suspected	0
+BOU	2184	969	0	adjutant-crane artisan assistant assuming auburn bandersnatch bang-up barbed bareface
+BOV	2316	970	0	lower	0
+BOW	2035	971	0	jill	0
+BOX	2251	972	0	luck	0
+BOY	0	973	0	built	0
+BOZ	2149	974	0	miserable	0
+BPA	2316	975	0	huge	0
+BPB	2229	976	0	wings	0
+BPC	0	977	0	presented	0
+BPD	2282	978	0	confessed	0
+BPE	2242	979	0	gods	0
+BPF	2149	980	0	excited	0
+BPG	2316	981	0	club	0
+BPH	0	982	0	squirrel	0
+BPJ	2219	983	0	gently	0
+BPK	0	984	0	couple	0
+BPL	2240	985	0	paint	0
+BPM	2316	986	0	aboard affrighted afire aglow alighting ambassadors apiece backward barrack-servants 
+BPN	0	987	0	waved	0
+BPO	2228	988	0	charming	0
+BPP	2316	989	0	aches apology backbone beetle blackest blankets brightest broadest caution chickens c
+BPQ	2316	990	0	brushed	0
+BPR	2316	991	0	leaf star	0 0
+BPS	2228	992	0	wild	0
+BPT	2146	993	0	simple	0
+BPU	2229	994	0	bookkeeper bouncer carrolls coins compartments conservatives dew-bleaching dholes dim
+BPV	2316	995	0	alluring aloofness beer bread-and-butter bridal capers cardboard chatting cliffs comp
+BPW	2089	996	0	sobbed	0
+BPX	2316	997	0	content	0
+BPY	2296	998	0	names	0
+BPZ	2316	999	0	human	0
+BQA	2236	1000	0	wished	0
+BQB	2304	1001	0	does	0
+BQC	2011	1002	0	'd	0
+BQD	2118	1003	0	captain	0
+BQE	2049	1004	0	've	0
+BQF	2316	1005	0	use	0
+BQG	2014	1006	0	away	0
+BQH	0	1007	0	admit	0
+BQJ	2309	1008	0	went	0
+BQK	2201	1009	0	ready	0
+BQL	0	1010	0	bring	0
+BQM	2115	1011	0	table	0
+BQN	2015	1012	0	big	0
+BQO	2067	1013	0	suddenly	0
+BQP	2025	1014	0	marilla	0
+BQQ	2316	1015	0	hide	0
+BQR	2316	1016	0	over	0
+BQS	0	1017	0	ago	0
+BQT	2080	1018	0	yet	0
+BQU	0	1019	0	grown	0
+BQV	0	1020	0	turned	0
+BQW	2316	1021	0	flew	0
+BQX	2296	1022	0	matter	0
+BQY	2316	1023	0	lips	0
+BQZ	0	1024	0	in	0
+BRA	2008	1025	0	those	0
+BRB	2007	1026	0	their	0
+BRC	2316	1027	0	wonder	0
+BRD	2007	1028	0	any	0
+BRE	2228	1029	0	whole	0
+BRF	2178	1030	0	years	0
+BRG	2316	1031	0	jump	0
+BRH	2021	1032	0	just	0
+BRJ	0	1033	0	struck	0
+BRK	0	1034	0	brought	0
+BRL	2225	1035	0	quick	0
+BRM	0	1036	0	set	0
+BRN	2316	1037	0	dress	0
+BRO	2252	1038	0	jack	0
+BRP	2253	1039	0	sprang	0
+BRQ	2313	1040	0	has	0
+BRR	2217	1041	0	letter	0
+BRS	0	1042	0	took	0
+BRT	2316	1043	0	move	0
+BRU	2202	1044	0	go	0
+BRV	2149	1045	0	frightened	0
+BRW	2316	1046	0	gone	0
+BRX	2229	1047	0	box	0
+BRY	2057	1048	0	can	0
+BRZ	2304	1049	0	doesn't	0
+BSA	2119	1050	0	uncle	0
+BSB	2229	1051	0	valley	0
+BSC	2096	1052	0	new	0
+BSD	2316	1053	0	wrote	0
+BSE	0	1054	0	laid	0
+BSF	2229	1055	0	truth	0
+BSG	0	1056	0	at	0
+BSH	2062	1057	0	reddy	0
+BSJ	0	1058	0	through	0
+BSK	2096	1059	0	blue	0
+BSL	2254	1060	0	woman	0
+BSM	2229	1061	0	tree	0
+BSN	2229	1062	0	wife	0
+BSO	2316	1063	0	beginning	0
+BSP	2228	1064	0	much	0
+BSQ	2316	1065	0	air	0
+BSR	2012	1066	0	quite	0
+BSS	2316	1067	0	grandfather	0
+BST	0	1068	0	feel	0
+BSU	0	1069	0	catch	0
+BSV	0	1070	0	forgot	0
+BSW	2162	1071	0	joy	0
+BSX	0	1072	0	looked	0
+BSY	2315	1073	0	forget	0
+BSZ	2220	1074	0	night	0
+BTA	2120	1075	0	gate	0
+BTB	2026	1076	0	anne	0
+BTC	0	1077	0	lived	0
+BTD	2316	1078	0	feet	0
+BTE	2229	1079	0	village	0
+BTF	2229	1080	0	face	0
+BTG	2316	1081	0	answered	0
+BTH	2229	1082	0	world	0
+BTJ	2229	1083	0	ears	0
+BTK	2229	1084	0	house	0
+BTL	2316	1085	0	dropped	0
+BTM	2255	1086	0	answer	0
+BTN	2229	1087	0	bride	0
+BTO	2058	1088	0	i	0
+BTP	0	1089	0	upon	0
+BTQ	2229	1090	0	hand	0
+BTR	2316	1091	0	believed	0
+BTS	2256	1092	0	day	0
+BTT	2251	1093	0	reason	0
+BTU	0	1094	0	taking	0
+BTV	2002	1095	0	sir	0
+BTW	2316	1096	0	one	0
+BTX	2316	1097	0	fun	0
+BTY	2316	1098	0	still	0
+BTZ	2158	1099	0	shore	0
+BUA	2316	1100	0	voice	0
+BUB	2027	1101	0	cecily	0
+BUC	2283	1102	0	dog	0
+BUD	2228	1103	0	interest	0
+BUE	2310	1104	0	are	0
+BUF	2095	1105	0	mary	0
+BUG	2316	1106	0	sound	0
+BUH	0	1107	0	filled	0
+BUJ	2007	1108	0	again	0
+BUK	2150	1109	0	jo	0
+BUL	2228	1110	0	brown	0
+BUM	2316	1111	0	smiling	0
+BUN	2063	1112	0	good	0
+BUO	0	1113	0	liked	0
+BUP	2316	1114	0	rest	0
+BUQ	2316	1115	0	sing	0
+BUR	2229	1116	0	child	0
+BUS	2096	1117	0	bad	0
+BUT	2297	1118	0	walked	0
+BUU	2150	1119	0	death	0
+BUV	2007	1120	0	his	0
+BUW	2316	1121	0	around	0
+BUX	2081	1122	0	didn't	0
+BUY	2246	1123	0	lad	0
+BUZ	2316	1124	0	eyes	0
+BVA	2029	1125	0	demanded	0
+BVB	2316	1126	0	along	0
+BVC	2316	1127	0	invited	0
+BVD	2016	1128	0	there	0
+BVE	2257	1129	0	remember	0
+BVF	2258	1130	0	isn't	0
+BVG	0	1131	0	crossed	0
+BVH	2121	1132	0	shall	0
+BVJ	2229	1133	0	fairy	0
+BVK	2316	1134	0	taken	0
+BVL	2062	1135	0	granny	0
+BVM	2001	1136	0	me	0
+BVN	0	1137	0	makes	0
+BVO	2034	1138	0	miss	0
+BVP	2064	1139	0	eric	0
+BVQ	0	1140	0	felt	0
+BVR	2316	1141	0	watch	0
+BVS	2229	1142	0	road	0
+BVT	2228	1143	0	bitter	0
+BVU	2316	1144	0	an	0
+BVV	2163	1145	0	stranger	0
+BVW	2316	1146	0	men	0
+BVX	2160	1147	0	sunday	0
+BVY	0	1148	0	try	0
+BVZ	2146	1149	0	dark	0
+BWA	2316	1150	0	marry	0
+BWB	2149	1151	0	sad	0
+BWC	0	1152	0	of	0
+BWD	2096	1153	0	many	0
+BWE	2171	1154	0	king	0
+BWF	2226	1155	0	meredith	0
+BWG	2284	1156	0	think	0
+BWH	2316	1157	0	write	0
+BWJ	2232	1158	0	friend	0
+BWK	0	1159	0	mink	0
+BWL	0	1160	0	been	0
+BWM	2228	1161	0	glad	0
+BWN	0	1162	0	which	0
+BWO	2140	1163	0	lane	0
+BWP	2229	1164	0	heart	0
+BWQ	2291	1165	0	soul	0
+BWR	2311	1166	0	few	0
+BWS	2141	1167	0	month	0
+BWT	0	1168	0	on	0
+BWU	2259	1169	0	opened	0
+BWV	2007	1170	0	us	0
+BWW	2229	1171	0	company	0
+BWX	2228	1172	0	well	0
+BWY	2316	1173	0	promised	0
+BWZ	2229	1174	0	trouble	0
+BXA	2050	1175	0	tommy	0
+BXB	0	1176	0	let	0
+BXC	2316	1177	0	sitting	0
+BXD	2312	1178	0	stood	0
+BXE	2314	1179	0	ought	0
+BXF	2121	1180	0	may	0
+BXG	0	1181	0	beside	0
+BXH	2062	1182	0	sammy	0
+BXJ	2316	1183	0	saying	0
+BXK	0	1184	0	when	0
+BXL	2316	1185	0	wait	0
+BXM	0	1186	0	being	0
+BXN	2316	1187	0	legs	0
+BXO	2316	1188	0	way	0
+BXP	2150	1189	0	often	0
+BXQ	2025	1190	0	susan	0
+BXR	0	1191	0	coon	0
+BXS	2145	1192	0	don't	0
+BXT	2316	1193	0	spirit	0
+BXU	2082	1194	0	father	0
+BXV	2229	1195	0	country	0
+BXW	0	1196	0	made	0
+BXX	2142	1197	0	princess	0
+BXY	2316	1198	0	best	0
+BXZ	2289	1199	0	talked	0
+BYA	2316	1200	0	what	0
+BYB	0	1201	0	without	0
+BYC	2033	1202	0	couldn't	0
+BYD	2229	1203	0	island	0
+BYE	2314	1204	0	wanted	0
+BYF	0	1205	0	between	0
+BYG	2316	1206	0	full	0
+BYH	2139	1207	0	kitchen	0
+BYJ	2093	1208	0	asked	0
+BYK	0	1209	0	led	0
+BYL	2122	1210	0	evening	0
+BYM	2276	1211	0	order	0
+BYN	2003	1212	0	mrs	0
+BYO	2316	1213	0	appeared	0
+BYP	2203	1214	0	laugh	0
+BYQ	2204	1215	0	cake	0
+BYR	2260	1216	0	is	0
+BYS	0	1217	0	comes	0
+BYT	2007	1218	0	our	0
+BYU	2249	1219	0	somebody	0
+BYV	0	1220	0	heard	0
+BYW	0	1221	0	visit	0
+BYX	2138	1222	0	please	0
+BYY	0	1223	0	allowed	0
+BYZ	2063	1224	0	old	0
+BZA	2316	1225	0	play	0
+BZB	2261	1226	0	why	0
+BZC	0	1227	0	raised	0
+BZD	2003	1228	0	mr	0
+BZE	0	1229	0	pay	0
+BZF	2035	1230	0	dan	0
+BZG	2316	1231	0	game	0
+BZH	0	1232	0	from	0
+BZJ	2008	1233	0	these	0
+BZK	2150	1234	0	last	0
+BZL	2149	1235	0	angry	0
+BZM	0	1236	0	till	0
+BZN	2103	1237	0	shut	0
+BZO	2316	1238	0	died	0
+BZP	2316	1239	0	dare	0
+BZQ	2036	1240	0	too	0
+BZR	2064	1241	0	jem	0
+BZS	2316	1242	0	help	0
+BZT	2280	1243	0	dressed	0
+BZU	2316	1244	0	mind	0
+BZV	2316	1245	0	sense	0
+BZW	2316	1246	0	jumped	0
+BZX	0	1247	0	following	0
+BZY	2313	1248	0	have	0
+BZZ	2316	1249	0	getting	0
+CAA	2310	1250	0	're	0
+CAB	2229	1251	0	horses	0
+CAC	2090	1252	0	down	0
+CAD	2205	1253	0	hadn't	0
+CAE	2229	1254	0	bed	0
+CAF	2206	1255	0	corner	0
+CAG	2315	1256	0	know	0
+CAH	0	1257	0	seem	0
+CAJ	2262	1258	0	enough	0
+CAK	0	1259	0	likes	0
+CAL	2179	1260	0	might	0
+CAM	2316	1261	0	watching	0
+CAN	0	1262	0	person	0
+CAO	0	1263	0	flung	0
+CAP	2001	1264	0	him	0
+CAQ	2316	1265	0	speak	0
+CAR	2030	1266	0	young	0
+CAS	2290	1267	0	milk	0
+CAT	2316	1268	0	things	0
+CAU	0	1269	0	hold	0
+CAV	0	1270	0	feeling	0
+CAW	2109	1271	0	anger	0
+CAX	2007	1272	0	my	0
+CAY	2118	1273	0	doctor	0
+CAZ	0	1274	0	grew	0
+CBA	2123	1275	0	delighted	0
+CBB	2051	1276	0	won't	0
+CBC	2316	1277	0	heads	0
+CBD	2093	1278	0	whispered	0
+CBE	2253	1279	0	pointed	0
+CBF	2305	1280	0	and	0
+CBG	2316	1281	0	hard	0
+CBH	0	1282	0	keep	0
+CBJ	0	1283	0	threw	0
+CBK	0	1284	0	fox	0
+CBL	2064	1285	0	diana	0
+CBM	0	1286	0	known	0
+CBN	2316	1287	0	worried	0
+CBO	2316	1288	0	where	0
+CBP	2316	1289	0	shadow	0
+CBQ	2316	1290	0	work	0
+CBR	2146	1291	0	sharp	0
+CBS	2122	1292	0	morning	0
+CBT	2316	1293	0	spread	0
+CBU	2316	1294	0	women	0
+CBV	2207	1295	0	gentleman	0
+CBW	0	1296	0	by	0
+CBX	0	1297	0	started	0
+CBY	2229	1298	0	life	0
+CBZ	2095	1299	0	matthew	0
+CCA	0	1300	0	because	0
+CCB	2098	1301	0	small	0
+CCC	2316	1302	0	family	0
+CCD	2113	1303	0	tall	0
+CCE	0	1304	0	put	0
+CCF	2229	1305	0	trees	0
+CCG	2017	1306	0	three	0
+CCH	2228	1307	0	golden	0
+CCJ	2208	1308	0	suppose	0
+CCK	2229	1309	0	boat	0
+CCL	2143	1310	0	sighed	0
+CCM	2316	1311	0	hours	0
+CCN	0	1312	0	as	0
+CCO	2096	1313	0	such	0
+CCP	2312	1314	0	sat	0
+CCQ	2292	1315	0	happen	0
+CCR	2184	1316	0	long	0
+CCS	2062	1317	0	blacky	0
+CCT	2316	1318	0	master	0
+CCU	2292	1319	0	hurry	0
+CCV	2057	1320	0	will	0
+CCW	0	1321	0	news	0
+CCX	0	1322	0	called	0
+CCY	2316	1323	0	crept	0
+CCZ	2082	1324	0	mother	0
+CDA	2316	1325	0	goes	0
+CDB	2064	1326	0	tom	0
+CDC	2285	1327	0	basket	0
+CDD	2315	1328	0	did	0
+CDE	2281	1329	0	end	0
+CDF	2316	1330	0	run	0
+CDG	2316	1331	0	rolled	0
+CDH	2228	1332	0	even	0
+CDJ	2149	1333	0	dead	0
+CDK	2283	1334	0	horse	0
+CDL	2149	1335	0	sick	0
+CDM	0	1336	0	not	0
+CDN	2316	1337	0	fast	0
+CDO	2316	1338	0	lost	0
+CDP	2035	1339	0	beth	0
+CDQ	2229	1340	0	children	0
+CDR	2311	1341	0	thousand	0
+CDS	2316	1342	0	wondered	0
+CDT	2073	1343	0	already	0
+CDU	0	1344	0	for	0
+CDV	2229	1345	0	brother	0
+CDW	2093	1346	0	replied	0
+CDX	2083	1347	0	bright	0
+CDY	0	1348	0	after	0
+CDZ	2316	1349	0	hurt	0
+CEA	2316	1350	0	care	0
+CEB	2164	1351	0	roger	0
+CEC	2031	1352	0	they	0
+CED	2014	1353	0	together	0
+CEE	2150	1354	0	everything	0
+CEF	0	1355	0	received	0
+CEG	2230	1356	0	ran	0
+CEH	2116	1357	0	harrison	0
+CEJ	2316	1358	0	usual	0
+CEK	2316	1359	0	harm	0
+CEL	2004	1360	0	then	0
+CEM	2071	1361	0	second	0
+CEN	2316	1362	0	though	0
+CEO	2228	1363	0	determined	0
+CEP	0	1364	0	gave	0
+CEQ	2229	1365	0	wall	0
+CER	2316	1366	0	tongue	0
+CES	2229	1367	0	ship	0
+CET	0	1368	0	find	0
+CEU	2229	1369	0	fire	0
+CEV	2316	1370	0	fear	0
+CEW	2029	1371	0	retorted	0
+CEX	0	1372	0	read	0
+CEY	2096	1373	0	wonderful	0
+CEZ	2141	1374	0	week	0
+CFA	2316	1375	0	hour	0
+CFB	0	1376	0	be	0
+CFC	2018	1377	0	every	0
+CFD	0	1378	0	than	0
+CFE	2316	1379	0	strong	0
+CFF	2011	1380	0	'll	0
+CFG	2148	1381	0	wind	0
+CFH	0	1382	0	deal	0
+CFJ	2316	1383	0	delightful	0
+CFK	2261	1384	0	how	0
+CFL	2316	1385	0	fall	0
+CFM	0	1386	0	fellow	0
+CFN	0	1387	0	darling	0
+CFO	2165	1388	0	hands	0
+CFP	2316	1389	0	eye	0
+CFQ	0	1390	0	chuck	0
+CFR	2245	1391	0	treasure	0
+CFS	2090	1392	0	up	0
+CFT	0	1393	0	ain't	0
+CFU	2316	1394	0	seemed	0
+CFV	2316	1395	0	nature	0
+CFW	2315	1396	0	believe	0
+CFX	2316	1397	0	point	0
+CFY	2163	1398	0	baby	0
+CFZ	2173	1399	0	pleased	0
+CGA	2084	1400	0	am	0
+CGB	2316	1401	0	forgotten	0
+CGC	0	1402	0	across	0
+CGD	2074	1403	0	grass	0
+CGE	2316	1404	0	caught	0
+CGF	2291	1405	0	body	0
+CGG	2112	1406	0	shouted	0
+CGH	2150	1407	0	forward	0
+CGJ	2316	1408	0	a	0
+CGK	2263	1409	0	live	0
+CGL	2316	1410	0	stay	0
+CGM	2047	1411	0	themselves	0
+CGN	0	1412	0	under	0
+CGO	2316	1413	0	refused	0
+CGP	2316	1414	0	bit	0
+CGQ	2316	1415	0	forgive	0
+CGR	2032	1416	0	this	0
+CGS	2206	1417	0	chair	0
+CGT	2022	1418	0	jimmy	0
+CGU	2223	1419	0	sudden	0
+CGV	2316	1420	0	doing	0
+CGW	0	1421	0	wear	0
+CGX	0	1422	0	round	0
+CGY	2298	1423	0	breezes	0
+CGZ	2005	1424	0	she	0
+CHA	2316	1425	0	fish	0
+CHB	2315	1426	0	wish	0
+CHC	2316	1427	0	lesson	0
+CHD	2229	1428	0	place	0
+CHE	0	1429	0	thinks	0
+CHF	2316	1430	0	tears	0
+CHG	2316	1431	0	abner al-ready angelina ankles approbation armoury arsenal assailant attendants back
+CHH	2315	1432	0	say	0
+CHJ	0	1433	0	having	0
+CHK	2166	1434	0	nobody	0
+CHL	2229	1435	0	richard	0
+CHM	2316	1436	0	coming	0
+CHN	2052	1437	0	lovely	0
+CHO	2229	1438	0	money	0
+CHP	2072	1439	0	fairies	0
+CHQ	0	1440	0	like	0
+CHR	2002	1441	0	yes	0
+CHS	2316	1442	0	rose	0
+CHT	2316	1443	0	questions	0
+CHU	0	1444	0	found	0
+CHV	0	1445	0	follow	0
+CHW	2053	1446	0	rather	0
+CHX	2101	1447	0	thin	0
+CHY	2221	1448	0	back	0
+CHZ	2035	1449	0	jims	0
+CJA	2222	1450	0	cry	0
+CJB	2316	1451	0	flashed	0
+CJC	2178	1452	0	days	0
+CJD	2316	1453	0	silence	0
+CJE	2027	1454	0	felicity	0
+CJF	2039	1455	0	handsome	0
+CJG	2315	1456	0	see	0
+CJH	2316	1457	0	seems	0
+CJJ	0	1458	0	shook	0
+CJK	2054	1459	0	to-morrow	0
+CJL	0	1460	0	since	0
+CJM	2207	1461	0	fool	0
+CJN	2316	1462	0	expected	0
+CJO	2316	1463	0	noise	0
+CJP	2316	1464	0	people	0
+CJQ	2316	1465	0	late	0
+CJR	2241	1466	0	light	0
+CJS	2316	1467	0	rushed	0
+CJT	0	1468	0	ask	0
+CJU	2124	1469	0	forest	0
+CJV	2229	1470	0	tail	0
+CJW	2316	1471	0	kiss	0
+CJX	2306	1472	0	's	0
+CJY	2264	1473	0	minute	0
+CJZ	2229	1474	0	girls	0
+CKA	2285	1475	0	hole	0
+CKB	0	1476	0	knew	0
+CKC	2045	1477	0	dreadful	0
+CKD	2316	1478	0	business	0
+CKE	2125	1479	0	everyone	0
+CKF	0	1480	0	into	0
+CKG	0	1481	0	send	0
+CKH	2316	1482	0	idea	0
+CKJ	0	1483	0	hoping	0
+CKK	0	1484	0	bear	0
+CKL	2316	1485	0	lives	0
+CKM	0	1486	0	picked	0
+CKN	0	1487	0	lead	0
+CKO	2085	1488	0	would	0
+CKP	2184	1489	0	strange	0
+CKQ	2062	1490	0	jerry	0
+CKR	2294	1491	0	accountant accused adequate after-complaints aisy anonymous appeased attentive barte
+CKS	2316	1492	0	right	0
+CKT	2265	1493	0	tone	0
+CKU	2126	1494	0	son	0
+CKV	2229	1495	0	action anguish avenue belt cellar cloth companionship congregation crumbs enjoyment 
+CKW	2202	1496	0	come	0
+CKX	0	1497	0	thank	0
+CKY	2077	1498	0	perhaps	0
+CKZ	2148	1499	0	sky	0
+CLA	2007	1500	0	himself	0
+CLB	0	1501	0	remained	0
+CLC	2229	1502	0	letters	0
+CLD	0	1503	0	win	0
+CLE	2316	1504	0	all	0
+CLF	2316	1505	0	kill	0
+CLG	0	1506	0	met	0
+CLH	2244	1507	0	ellen	0
+CLJ	2007	1508	0	them	0
+CLK	0	1509	0	except	0
+CLL	2064	1510	0	rilla	0
+CLM	2176	1511	0	merry	0
+CLN	2316	1512	0	going	0
+CLO	2229	1513	0	brook	0
+CLP	2048	1514	0	its	0
+CLQ	2228	1515	0	bound	0
+CLR	0	1516	0	held	0
+CLS	0	1517	0	step	0
+CLT	0	1518	0	hate	0
+CLU	2316	1519	0	feelings	0
+CLV	2316	1520	0	time	0
+CLW	2120	1521	0	window	0
+CLX	2150	1522	0	soon	0
+CLY	0	1523	0	during	0
+CLZ	0	1524	0	until	0
+CMA	2316	1525	0	fly	0
+CMB	2180	1526	0	sister	0
+CMC	2068	1527	0	twice	0
+CMD	0	1528	0	while	0
+CME	2061	1529	0	ten	0
+CMF	2316	1530	0	followed	0
+CMG	0	1531	0	stretched	0
+CMH	2179	1532	0	should	0
+CMJ	0	1533	0	lifted	0
+CMK	2263	1534	0	sleep	0
+CML	2229	1535	0	scene	0
+CMM	2316	1536	0	that	0
+CMN	2228	1537	0	real	0
+CMO	2266	1538	0	.number.	0
+CMP	2228	1539	0	high	0
+CMQ	2295	1540	0	name	0
+CMR	2316	1541	0	fat	0
+CMS	2150	1542	0	danny	0
+CMT	0	1543	0	trout	0
+CMU	2091	1544	0	so	0
+CMV	0	1545	0	became	0
+CMW	2316	1546	0	chance	0
+CMX	2289	1547	0	waited	0
+CMY	0	1548	0	leave	0
+CMZ	2316	1549	0	husband	0
+CNA	2228	1550	0	talking	0
+CNB	0	1551	0	joined	0
+CNC	0	1552	0	with	0
+CND	2125	1553	0	everybody	0
+CNE	0	1554	0	kept	0
+CNF	2316	1555	0	touched	0
+CNG	2086	1556	0	anything	0
+CNH	0	1557	0	pool	0
+CNJ	2184	1558	0	fine	0
+CNK	2150	1559	0	probably	0
+CNL	0	1560	0	love	0
+CNM	2062	1561	0	whitefoot	0
+CNN	2316	1562	0	school	0
+CNO	0	1563	0	otter	0
+CNP	2013	1564	0	really	0
+CNQ	2316	1565	0	noticed	0
+CNR	0	1566	0	pulled	0
+CNS	2235	1567	0	wondering	0
+CNT	2063	1568	0	it	0
+CNU	2316	1569	0	hair	0
+CNV	0	1570	0	lay	0
+CNW	0	1571	0	muskrat	0
+CNX	0	1572	0	give	0
+CNY	0	1573	0	promise	0
+CNZ	2316	1574	0	far	0
+COA	2104	1575	0	remarked	0
+COB	2316	1576	0	look	0
+COC	2142	1577	0	queen	0
+COD	2316	1578	0	words	0
+COE	2096	1579	0	pleasant	0
+COF	0	1580	0	tried	0
+COG	2229	1581	0	beauty	0
+COH	2196	1582	0	fight	0
+COJ	2283	1583	0	sheep	0
+COK	2007	1584	0	no	0
+COL	2316	1585	0	friends	0
+COM	2119	1586	0	aunt	0
+CON	0	1587	0	slip	0
+COO	2021	1588	0	only	0
+COP	2091	1589	0	nearly	0
+COQ	2049	1590	0	haven't	0
+COR	2308	1591	0	moore	0
+COS	0	1592	0	take	0
+COT	2316	1593	0	stopped	0
+COU	2301	1594	0	happened	0
+COV	2095	1595	0	stephen	0
+COW	2209	1596	0	kind	0
+COX	2316	1597	0	hurried	0
+COY	0	1598	0	means	0
+COZ	2223	1599	0	faint	0
+CPA	2313	1600	0	had	0
+CPB	0	1601	0	cut	0
+CPC	2036	1602	0	off	0
+CPD	2167	1603	0	born	0
+CPE	2086	1604	0	nothing	0
+CPF	0	1605	0	entered	0
+CPG	2064	1606	0	kim	0
+CPH	2161	1607	0	hesitated	0
+CPJ	0	1608	0	thought	0
+CPK	0	1609	0	although	0
+CPL	0	1610	0	drew	0
+CPM	2010	1611	0	anyway	0
+CPN	2316	1612	0	talk	0
+CPO	2088	1613	0	indeed	0
+CPP	2108	1614	0	sun	0
+CPQ	0	1615	0	porky	0
+CPR	2310	1616	0	were	0
+CPS	2096	1617	0	pretty	0
+CPT	0	1618	0	reached	0
+CPU	2228	1619	0	prepared	0
+CPV	0	1620	0	left	0
+CPW	2213	1621	0	grandmother	0
+CPX	2316	1622	0	cross	0
+CPY	2044	1623	0	laurie	0
+CPZ	2033	1624	0	must	0
+CQA	2316	1625	0	own	0
+CQB	2142	1626	0	prince	0
+CQC	2316	1627	0	swim	0
+CQD	2307	1628	0	mean	0
+CQE	0	1629	0	enjoy	0
+CQF	2055	1630	0	however	0
+CQG	2316	1631	0	adornment aversion baiting bargaining beaching blackburn bourne breather bribe broth
+CQH	2007	1632	0	her	0
+CQJ	2091	1633	0	almost	0
+CQK	2281	1634	0	side	0
+CQL	2316	1635	0	telling	0
+CQM	2229	1636	0	boys	0
+CQN	2224	1637	0	smiled	0
+CQO	0	1638	0	skunk	0
+CQP	2150	1639	0	avonlea	0
+CQQ	0	1640	0	make	0
+CQR	2316	1641	0	sight	0
+CQS	2316	1642	0	part	0
+CQT	2150	1643	0	scrooge	0
+CQU	2257	1644	0	understand	0
+CQV	2064	1645	0	gilbert	0
+CQW	2229	1646	0	dream	0
+CQX	2316	1647	0	storm	0
+CQY	2309	1648	0	came	0
+CQZ	0	1649	0	mouse	0
+CRA	2096	1650	0	white	0
+CRB	2229	1651	0	roof	0
+CRC	2316	1652	0	lady	0
+CRD	0	1653	0	choose	0
+CRE	2316	1654	0	running	0
+CRF	2225	1655	0	dull	0
+CRG	2229	1656	0	head	0
+CRH	2172	1657	0	true	0
+CRJ	0	1658	0	times	0
+CRK	0	1659	0	showing	0
+CRL	2316	1660	0	fell	0
+CRM	2117	1661	0	none	0
+CRN	2266	1662	0	chapter	0
+CRO	2204	1663	0	bread	0
+CRP	0	1664	0	to	0
+CRQ	2316	1665	0	lot	0
+CRR	0	1666	0	among	0
+CRS	2078	1667	0	chuckled	0
+CRT	0	1668	0	sent	0
+CRU	2282	1669	0	declared	0
+CRV	2180	1670	0	cousin	0
+CRW	2316	1671	0	blame	0
+CRX	2007	1672	0	your	0
+CRY	2250	1673	0	note	0
+CRZ	2229	1674	0	pity	0
+CSA	2162	1675	0	happiness	0
+CSB	2292	1676	0	begin	0
+CSC	2184	1677	0	deep	0
+CSD	2228	1678	0	quiet	0
+CSE	2316	1679	0	romantic	0
+CSF	2028	1680	0	little	0
+CSG	2228	1681	0	cold	0
+CSH	2096	1682	0	black	0
+CSJ	2228	1683	0	satisfied	0
+CSK	0	1684	0	against	0
+CSL	0	1685	0	notice	0
+CSM	0	1686	0	close	0
+CSN	2219	1687	0	flat	0
+CSO	2018	1688	0	another	0
+CSP	2229	1689	0	flowers	0
+CSQ	0	1690	0	carried	0
+CSR	2229	1691	0	ages ants bees cattle cookies cousins cowards elders exams fools footprints forms gl
+CSS	0	1692	0	rabbit	0
+CST	2316	1693	0	teeth	0
+CSU	2064	1694	0	walter	0
+CSV	2278	1695	0	magic	0
+CSW	0	1696	0	if	0
+CSX	0	1697	0	dragged	0
+CSY	0	1698	0	beat	0
+CSZ	0	1699	0	trick	0
+CTA	2217	1700	0	story	0
+CTB	0	1701	0	played	0
+CTC	2007	1702	0	yourself	0
+CTD	2124	1703	0	meadows	0
+CTE	0	1704	0	thing	0
+CTF	2123	1705	0	surprised	0
+CTG	2034	1706	0	oh	0
+CTH	2102	1707	0	power	0
+CTJ	2229	1708	0	room	0
+CTK	2316	1709	0	shot	0
+CTL	0	1710	0	suit	0
+CTM	2127	1711	0	empty	0
+CTN	2090	1712	0	out	0
+CTO	2316	1713	0	understood	0
+CTP	2007	1714	0	herself	0
+CTQ	0	1715	0	become	0
+CTR	2228	1716	0	happy	0
+CTS	0	1717	0	spend	0
+CTT	0	1718	0	fit	0
+CTU	2316	1719	0	12th apple-trees artemisia battlefields cathedral causes champions coals complicatio
+CTV	2150	1720	0	first	0
+CTW	0	1721	0	meaning	0
+CTX	2316	1722	0	change	0
+CTY	2219	1723	0	hollow	0
+CTZ	2229	1724	0	water	0
+CUA	2316	1725	0	spoken	0
+CUB	2226	1726	0	bell	0
+CUC	2198	1727	0	manner	0
+CUD	2084	1728	0	'm	0
+CUE	2229	1729	0	garden	0
+CUF	2017	1730	0	two	0
+CUG	2216	1731	0	curiosity	0
+CUH	2004	1732	0	now	0
+CUJ	2229	1733	0	nose	0
+CUK	2165	1734	0	arms	0
+CUL	2316	1735	0	advertisement ballad besieger birch-tree block blood-ruby boatman bohemian camp-fire
+CUM	0	1736	0	or	0
+CUN	2316	1737	0	likely	0
+CUO	0	1738	0	need	0
+CUP	2316	1739	0	staring	0
+CUQ	2096	1740	0	green	0
+CUR	0	1741	0	takes	0
+CUS	0	1742	0	expect	0
+CUT	2127	1743	0	silent	0
+CUU	0	1744	0	got	0
+CUV	2212	1745	0	cannot	0
+CUW	2284	1746	0	hope	0
+CUX	2228	1747	0	welcome	0
+CUY	2168	1748	0	door	0
+CUZ	2316	1749	0	hill	0
+CVA	2150	1750	0	lightfoot	0
+CVB	2228	1751	0	odd	0
+CVC	2026	1752	0	peter	0
+CVD	2064	1753	0	mowgli	0
+CVE	2210	1754	0	afraid	0
+CVF	2144	1755	0	tea	0
+CVG	0	1756	0	course	0
+CVH	0	1757	0	imagine	0
+CVJ	2316	1758	0	stone	0
+CVK	2316	1759	0	duty	0
+CVL	2093	1760	0	cried	0
+CVM	2181	1761	0	added	0
+CVN	0	1762	0	call	0
+CVO	2140	1763	0	orchard	0
+CVP	2228	1764	0	more	0
+CVQ	2055	1765	0	sometimes	0
+CVR	2316	1766	0	stared	0
+CVS	2316	1767	0	feared	0
+CVT	2006	1768	0	never	0
+CVU	2150	1769	0	wendy	0
+CVV	2150	1770	0	john	0
+CVW	2164	1771	0	blair	0
+CVX	2052	1772	0	beautiful	0
+CVY	2061	1773	0	four	0
+CVZ	2314	1774	0	wants	0
+CWA	2316	1775	0	affair	0
+CWB	2012	1776	0	very	0
+CWC	2316	1777	0	path	0
+CWD	2316	1778	0	loved	0
+CWE	2285	1779	0	search	0
+CWF	2150	1780	0	once	0
+CWG	2149	1781	0	wrong	0
+CWH	2007	1782	0	myself	0
+CWJ	2316	1783	0	hearts	0
+CWK	0	1784	0	tell	0
+CWL	2148	1785	0	ground	0
+CWM	0	1786	0	watched	0
+CWN	2229	1787	0	stars	0
+CWO	0	1788	0	show	0
+CWP	2316	1789	0	ring	0
+CWQ	0	1790	0	drive	0
+CWR	2316	1791	0	crowd	0
+CWS	2009	1792	0	the	0
+CWT	2128	1793	0	smart	0
+CWU	0	1794	0	hasn't	0
+CWV	2316	1795	0	opinion	0
+CWW	2016	1796	0	here	0
+CWX	2311	1797	0	hundred	0
+CWY	2296	1798	0	question	0
+CWZ	2237	1799	0	listen	0
+CXA	2316	1800	0	who	0
+CXB	2229	1801	0	land	0
+CXC	2316	1802	0	walk	0
+CXD	2316	1803	0	weather	0
+CXE	2316	1804	0	trying	0
+CXF	2150	1805	0	frank	0
+CXG	2096	1806	0	sweet	0
+CXH	2149	1807	0	unhappy	0
+CXJ	2031	1808	0	we	0
+CXK	2316	1809	0	grow	0
+CXL	0	1810	0	longer	0
+CXM	2267	1811	0	cheeks	0
+CXN	0	1812	0	meant	0
+CXO	2316	1813	0	killed	0
+CXP	2228	1814	0	awful	0
+CXQ	0	1815	0	monday	0
+CXR	2316	1816	0	seen	0
+CXS	2215	1817	0	wedding	0
+CXT	0	1818	0	passed	0
+CXU	2316	1819	0	fallen	0
+CXV	2210	1820	0	sure	0
+CXW	2076	1821	0	proud	0
+CXX	2316	1822	0	clothes	0
+CXY	2157	1823	0	pleasure	0
+CXZ	2316	1824	0	about	0
+CYA	2226	1825	0	toad	0
+CYB	2228	1826	0	most	0
+CYC	2129	1827	0	excitement	0
+CYD	2264	1828	0	moment	0
+CYE	2177	1829	0	wood	0
+CYF	2150	1830	0	next	0
+CYG	0	1831	0	sail	0
+CYH	2015	1832	0	great	0
+CYJ	2209	1833	0	sort	0
+CYK	2228	1834	0	spring	0
+CYL	2316	1835	0	spirits	0
+CYM	2316	1836	0	word	0
+CYN	2079	1837	0	god	0
+CYO	2228	1838	0	living	0
+CYP	2316	1839	0	shoot	0
+CYQ	2032	1840	0	some	0
+CYR	2316	1841	0	past	0
+CYS	0	1842	0	ones	0
+CYT	2255	1843	0	reply	0
+CYU	2314	1844	0	used	0
+CYV	2228	1845	0	christmas	0
+CYW	2130	1846	0	laughing	0
+CYX	0	1847	0	hound	0
+CYY	2316	1848	0	looking	0
+CYZ	2139	1849	0	hall	0
+CZA	2268	1850	0	laughed	0
+CZB	2191	1851	0	calm	0
+CZC	2316	1852	0	done	0
+CZD	2316	1853	0	discovered	0
+CZE	2144	1854	0	breakfast	0
+CZF	0	1855	0	beating	0
+CZG	2031	1856	0	you	0
+CZH	2316	1857	0	leaving	0
+CZJ	0	1858	0	given	0
+CZK	2228	1859	0	anxious	0
+CZL	2258	1860	0	wasn't	0
+CZM	2229	1861	0	blood	0
+CZN	2278	1862	0	gold	0
+CZO	2290	1863	0	cats	0
+CZP	2316	1864	0	other	0
+CZQ	2316	1865	0	finish	0
+CZR	2316	1866	0	married	0
+CZS	2316	1867	0	trunk	0
+CZT	2046	1868	0	nice	0
+CZU	0	1869	0	worked	0
+CZV	2148	1870	0	sea	0
+CZW	2200	1871	0	royal	0
+CZX	2145	1872	0	could	0
+CZY	2130	1873	0	crying	0
+CZZ	2228	1874	0	ye	0
+DAA	2316	1875	0	gun	0
+DAB	0	1876	0	behind	0
+DAC	2184	1877	0	certain	0
+DAD	2229	1878	0	leaves	0
+DAE	2316	1879	0	ball	0
+DAF	0	1880	0	says	0
+DAG	2316	1881	0	half	0
+DAH	2174	1882	0	mouth	0
+DAJ	2234	1883	0	announced	0
+DAK	2043	1884	0	red	0
+DAL	2316	1885	0	finished	0
+DAM	2229	1886	0	hunter	0
+DAN	2128	1887	0	brave	0
+DAO	2305	1888	0	but	0
+DAP	2316	1889	0	open	0
+DAQ	2316	1890	0	same	0
+DAR	2187	1891	0	sally	0
+DAS	2051	1892	0	wouldn't	0
+DAT	2316	1893	0	drove	0
+DAU	2316	1894	0	stories	0
+DAV	2316	1895	0	climb	0
+DAW	2307	1896	0	want	0
+DAX	2201	1897	0	waiting	0
+DAY	0	1898	0	near	0
+DAZ	2316	1899	0	wake	0
+DBA	2150	1900	0	dick	0
+DBB	2040	1901	0	mine	0
+DBC	2229	1902	0	surprise	0
+DBD	2267	1903	0	ear	0
+DBE	2254	1904	0	man	0
+DBF	2220	1905	0	afternoon	0
+DBG	0	1906	0	thinking	0
+DBH	2066	1907	0	rain	0
+DBJ	2006	1908	0	always	0
+DBK	2229	1909	0	hat	0
+DBL	0	1910	0	jay	0
+DBM	2316	1911	0	proposed	0
+DBN	2030	1912	0	dear	0
+DBO	2316	1913	0	steps	0
+DBP	2316	1914	0	returned	0
+DBQ	2291	1915	0	journey	0
+DBR	2316	1916	0	eat	0
+DBS	2287	1917	0	picture	0
+DBT	2292	1918	0	die	0
+DBU	2288	1919	0	shirley	0
+DBV	2260	1920	0	was	0
+DBW	2148	1921	0	church	0
+DBX	0	1922	0	'	0
+DBY	2138	1923	0	let's	0
+DBZ	2131	1924	0	something	0
+DCA	2150	1925	0	hardly	0
+DCB	2316	1926	0	worry	0
+DCC	2316	1927	0	sensation	0
+DCD	0	1928	0	began	0
+DCE	2316	1929	0	buy	0
+DCF	0	1930	0	meet	0
+DCG	2316	1931	0	task	0
+DCH	2033	1932	0	can't	0
+DCJ	2316	1933	0	sailed	0
+DCK	2136	1934	0	foolish	0
+DCL	2229	1935	0	troubles	0
+DCM	2316	1936	0	before	0
+DCN	2316	1937	0	remembered	0
+DCO	2316	1938	0	turn	0
+DCP	2316	1939	0	easier	0
+DCQ	2170	1940	0	better	0
+DCR	2316	1941	0	speaking	0
+DCS	2228	1942	0	silver	0
+DCT	2296	1943	0	maid	0
+DCU	2006	1944	0	ever	0
+DCV	2316	1945	0	learn	0
+DCW	2316	1946	0	looks	0
+DCX	2167	1947	0	listening	0
+DCY	0	1948	0	spoke	0
+DCZ	2228	1949	0	clear	0
+DDA	2312	1950	0	sit	0
+DDB	2172	1951	0	horrid	0
+DDC	2005	1952	0	he	0
+DDD	0	1953	0	showed	0
+DDE	0	1954	0	frog	0
+DDF	2150	1955	0	kate	0
+DDG	2316	1956	0	boy	0
+DDH	2229	1957	0	music	0
+DDJ	2229	1958	0	meeting	0
+DDK	2096	1959	0	wise	0
+DDL	0	1960	0	get	0
+DDM	2135	1961	0	cornelia	0
+DDN	0	1962	0	making	0
+DDO	2316	1963	0	burst	0
+DDP	2029	1964	0	exclaimed	0
+DDQ	2277	1965	0	farmer	0
+DDR	2050	1966	0	janet	0
+DDS	2229	1967	0	fact	0
+DDT	2315	1968	0	do	0
+DDU	0	1969	0	holding	0
+DDV	2024	1970	0	queer	0
+DDW	2228	1971	0	broad	0
+DDX	2221	1972	0	home	0
+DDY	2290	1973	0	friendship	0
+DDZ	2129	1974	0	danger	0
+DEA	2054	1975	0	tomorrow	0
+DEB	2316	1976	0	girl	0
+DEC	2228	1977	0	different	0
+DED	2203	1978	0	smile	0
+DEE	2140	1979	0	jungle	0
+DEF	2208	1980	0	guess	0
+DEG	2150	1981	0	simply	0
+DEH	2316	1982	0	breath	0
+DEJ	2229	1983	0	fever honor honour justice kindness vacation wisdom	0 0 0 0 0 0 0
+DEK	2132	1984	0	said	0
+DEL	2316	1985	0	broke	0
+DEM	2030	1986	0	poor	0
+DEN	2303	1987	0	price	0
+DEO	2315	1988	0	hear	0
+DEP	2038	1989	0	quickly	0
+DEQ	2316	1990	0	paid	0
+DER	2275	1991	0	oliver	0
+DES	0	1992	0	told	0
+DET	2228	1993	0	short	0
+DEU	0	1994	0	knows	0
+DEV	2316	1995	0	rubbed	0
+DEW	2141	1996	0	year	0
+DEX	2316	1997	0	blythe	0
+DEY	2126	1998	0	daughter	0
+DEZ	2194	1999	0	courage	0
+DFA	0	2000	0	saw	0
+	2007	2001	0.28	him me	0 0
+	2034	2002	0.23	sir yes	0 0
+	2034	2003	0.23	mr mrs	0 0
+	2009	2004	0.23	now then	0 0
+	2058	2005	0.23	he she	0 0
+	2021	2006	0.23	always ever never	0 0 0
+	2009	2007	0.23	again any her herself him himself his me my myself no our their them us your yoursel
+	2056	2008	0.21	these those	0 0
+	2063	2009	0.21	again any her herself him himself his me my myself no now our the their them then us
+	2060	2010	0.19	anyhow anyway	0 0
+	2033	2011	0.19	'd 'll	0 0
+	2053	2012	0.19	quite very	0 0
+	2021	2013	0.19	certainly really surely	0 0 0
+	2036	2014	0.17	away together	0 0
+	2028	2015	0.17	big great	0 0
+	2063	2016	0.17	here there	0 0
+	2056	2017	0.17	three two	0 0
+	2032	2018	0.17	another every	0 0
+	2036	2019	0.17	....y abruptly absently adventurer agitatedly aimlessly airily aloud amusedly andros
+	2061	2020	0.17	eight eleven nine six twelve twenty	0 0 0 0 0 0
+	2063	2021	0.17	always certainly ever just never only really surely	0 0 0 0 0 0 0 0
+	2062	2022	0.15	chatterer jimmy	0 0
+	2060	2023	0.15	today tonight	0 0
+	2096	2024	0.15	funny queer	0 0
+	2059	2025	0.15	marilla susan	0 0
+	2094	2026	0.15	anne peter	0 0
+	2059	2027	0.15	cecily felicity	0 0
+	2063	2028	0.15	big great little	0 0 0
+	2093	2029	0.15	demanded exclaimed retorted	0 0 0
+	2063	2030	0.15	dear poor young	0 0 0
+	2058	2031	0.15	they we you	0 0 0
+	2063	2032	0.15	another every some this	0 0 0 0
+	2057	2033	0.15	'd 'll can't couldn't must	0 0 0 0 0
+	2063	2034	0.15	miss mr mrs oh sir yes	0 0 0 0 0 0
+	2059	2035	0.15	beth dan felix jill jims	0 0 0 0 0
+	2063	2036	0.15	....y abruptly absently adventurer agitatedly aimlessly airily aloud amusedly andros
+	2096	2037	0.13	ambitious awkward beloved brilliant childish commonplace conscious cordial cunning d
+	2065	2038	0.13	quickly silently swiftly	0 0 0
+	2096	2039	0.13	clever handsome honest	0 0 0
+	2150	2040	0.13	don hers hester methodists mine pat prissy yours	0 0 0 0 0 0 0 0
+	2083	2041	0.13	hot warm	0 0
+	2150	2042	0.13	ben daisy	0 0
+	2096	2043	0.13	red yellow	0 0
+	2095	2044	0.13	laurie ned	0 0
+	2096	2045	0.13	dreadful terrible	0 0
+	2096	2046	0.13	nice splendid	0 0
+	2087	2047	0.13	ourselves themselves	0 0
+	2096	2048	0.13	its thy	0 0
+	2205	2049	0.13	've haven't	0 0
+	2147	2050	0.13	janet tommy	0 0
+	2081	2051	0.13	won't wouldn't	0 0
+	2096	2052	0.13	beautiful lovely	0 0
+	2091	2053	0.13	quite rather very	0 0 0
+	2099	2054	0.13	to-morrow tomorrow	0 0
+	2088	2055	0.13	however sometimes	0 0
+	2096	2056	0.13	these those three two	0 0 0 0
+	2085	2057	0.13	'd 'll can can't couldn't must will	0 0 0 0 0 0 0
+	2147	2058	0.13	he i she they we you	0 0 0 0 0 0
+	2094	2059	0.13	beth cecily christopher dan felicity felix freda jill jims kaa marilla nat neil norm
+	2080	2060	0.13	anyhow anyway anywhere somehow somewhere today tonight	0 0 0 0 0 0 0
+	2096	2061	0.13	eight eleven five four nine six ten twelve twenty	0 0 0 0 0 0 0 0 0
+	2094	2062	0.13	blacky bowser chatterer granny jerry jimmy johnny reddy sammy whitefoot	0 0 0 0 0 0 
+	2147	2063	0.13	$ & ....y 0-448-02741-0 0-448-13721-6 1.50 130 16 1916 25 3 6 8vo .email. a-died a-w
+	2094	2064	0.13	alan alice carl chester diana eric faith gilbert jem kim leslie mowgli nancy nora pa
+	2150	2065	0.11	hastily promptly quickly quietly rapidly silently swiftly	0 0 0 0 0 0 0
+	2133	2066	0.11	earth ice rain sunshine	0 0 0 0
+	2150	2067	0.11	instantly suddenly	0 0
+	2150	2068	0.11	twice yesterday	0 0
+	2150	2069	0.11	actually fairly	0 0
+	2150	2070	0.11	anybody anyone	0 0
+	2316	2071	0.11	second third	0 0
+	2175	2072	0.11	fairies twins	0 0
+	2150	2073	0.11	already also	0 0
+	2133	2074	0.11	grass snow	0 0
+	2150	2075	0.11	finally presently	0 0
+	2149	2076	0.11	proud tired	0 0
+	2150	2077	0.11	meanwhile perhaps	0 0
+	2224	2078	0.11	chuckled grinned	0 0
+	2150	2079	0.11	god heaven	0 0
+	2150	2080	0.11	anyhow anyway anywhere somehow somewhere today tonight yet	0 0 0 0 0 0 0 0
+	2145	2081	0.11	didn't won't wouldn't	0 0 0
+	2229	2082	0.11	father mother	0 0
+	2146	2083	0.11	bright hot warm	0 0 0
+	0	2084	0.11	'm am	0 0
+	2145	2085	0.11	'd 'll can can't couldn't must will would	0 0 0 0 0 0 0 0
+	2131	2086	0.11	anything nothing	0 0
+	2150	2087	0.11	itself ourselves thee themselves	0 0 0 0
+	2150	2088	0.11	however indeed sometimes thus	0 0 0 0
+	2143	2089	0.11	explained protested sobbed suggested	0 0 0 0
+	2221	2090	0.11	down out up	0 0 0
+	2182	2091	0.11	almost nearly quite rather so very	0 0 0 0 0 0
+	2150	2092	0.11	appealingly badly beseechingly bitterly compassionately considerably corpse-like cri
+	2132	2093	0.11	asked cried demanded exclaimed replied retorted whispered	0 0 0 0 0 0 0
+	2147	2094	0.11	abimelech aethra agnes alan alexina alice allen allo alma anne antaeus anthony aquil
+	2147	2095	0.11	amy billy david demi emily helen laurie louisa margaret mary matthew ned paul phil r
+	2147	2096	0.11	ambitious approaching army-coat attacked awkward bad bald bandaged banquet bare barr
+	2226	2097	0.09	allan bhaer owl quack	0 0 0 0
+	2184	2098	0.09	small tiny	0 0
+	2228	2099	0.09	to-day to-morrow tomorrow	0 0 0
+	2228	2100	0.09	gray grey	0 0
+	2228	2101	0.09	pale thin	0 0
+	2316	2102	0.09	power strength	0 0
+	2259	2103	0.09	closed shut	0 0
+	2181	2104	0.09	muttered remarked	0 0
+	2316	2105	0.09	inside outside	0 0
+	2228	2106	0.09	hungry sorry	0 0
+	2175	2107	0.09	birds woods	0 0
+	2229	2108	0.09	moon sun	0 0
+	2229	2109	0.09	anger pride	0 0
+	2152	2110	0.09	castle palace	0 0
+	2228	2111	0.09	cool soft	0 0
+	2181	2112	0.09	inquired shouted	0 0
+	2184	2113	0.09	tall wicked	0 0
+	2193	2114	0.09	martha olivia	0 0
+	2229	2115	0.09	pond table	0 0
+	2226	2116	0.09	campbell harrison	0 0
+	2262	2117	0.09	none plenty	0 0
+	2229	2118	0.09	captain doctor	0 0
+	2229	2119	0.09	aunt uncle	0 0
+	2168	2120	0.09	gate window	0 0
+	2179	2121	0.09	may shall	0 0
+	2220	2122	0.09	evening morning	0 0
+	2173	2123	0.09	delighted surprised	0 0
+	2229	2124	0.09	forest meadows	0 0
+	2166	2125	0.09	everybody everyone	0 0
+	2180	2126	0.09	daughter son	0 0
+	2228	2127	0.09	empty silent	0 0
+	2228	2128	0.09	brave smart	0 0
+	2229	2129	0.09	danger excitement	0 0
+	2231	2130	0.09	crying laughing	0 0
+	2269	2131	0.09	anything nothing something	0 0 0
+	0	2132	0.09	asked cried demanded exclaimed replied retorted said whispered	0 0 0 0 0 0 0 0
+	2229	2133	0.09	earth grass ice rain snow sunshine	0 0 0 0 0 0
+	2170	2134	0.09	angrier beautifully bewildered dazed deeply deserted dismayed distressed dreadfully 
+	2169	2135	0.09	cornelia eunice salome thyra	0 0 0 0
+	2184	2136	0.09	common foolish friendly gay silly	0 0 0 0 0
+	2228	2137	0.09	asleep exactly ill	0 0 0
+	2228	2138	0.09	ah let's please	0 0 0
+	2229	2139	0.09	hall kitchen street	0 0 0
+	2229	2140	0.09	jungle lane orchard	0 0 0
+	2316	2141	0.09	month week year	0 0 0
+	2171	2142	0.09	prince princess queen	0 0 0
+	2229	2143	0.09	admitted agreed explained protested sighed sobbed suggested	0 0 0 0 0 0 0
+	2270	2144	0.09	breakfast dinner fortune supper tea	0 0 0 0 0
+	2211	2145	0.09	'd 'll can can't could couldn't didn't don't must will won't would wouldn't	0 0 0 0 
+	2184	2146	0.09	bright dark hot magnificent rough sharp simple thick warm wet	0 0 0 0 0 0 0 0 0 0
+	2182	2147	0.09	$ & ....y 0-448-02741-0 0-448-13721-6 1.50 130 16 1916 25 3 6 8vo .email. a-died a-w
+	2229	2148	0.09	church dust ground sand sea sky straw wind	0 0 0 0 0 0 0 0
+	2184	2149	0.09	alive angry ashamed burden careful comfortable concerned convinced crazy cruel dead 
+	2182	2150	0.09	'do accordingly actually admiringly admits afterward afterwards ahead alack alas alo
+	2271	2151	0.08	gathering killing sleeping	0 0 0
+	2229	2152	0.08	academy apartments bar barn bowl buggy cabin castle closet corn-crib cornfield court
+	2229	2153	0.08	witch wolf	0 0
+	2294	2154	0.08	seven several	0 0
+	2229	2155	0.08	james william	0 0
+	2228	2156	0.08	interesting ugly	0 0
+	2229	2157	0.08	disappointment pleasure relief success	0 0 0 0
+	2229	2158	0.08	river shore	0 0
+	2229	2159	0.08	neck stomach	0 0
+	2228	2160	0.08	friday june saturday sunday thursday tuesday wednesday	0 0 0 0 0 0 0
+	2224	2161	0.08	hesitated obeyed	0 0
+	2229	2162	0.08	happiness joy	0 0
+	2229	2163	0.08	baby stranger	0 0
+	2233	2164	0.08	blair roger	0 0
+	2229	2165	0.08	arms hands	0 0
+	2269	2166	0.08	everybody everyone nobody	0 0 0
+	2228	2167	0.08	born listening	0 0
+	2229	2168	0.08	door gate window	0 0 0
+	2227	2169	0.08	abraham ahmed alberta ariadne bedford benjamin bluntly blushing buster camilla charl
+	2228	2170	0.08	affected angrier beautifully better bewildered bigger colder darker dazed deeper dee
+	2295	2171	0.08	arrow dragon flash frost fur hare jackal king magician monkey prince princess queen 
+	2228	2172	0.08	curious horrid true	0 0 0
+	2272	2173	0.08	amazed astonished delighted disturbed pleased relieved shocked surprised	0 0 0 0 0 0
+	2229	2174	0.08	age art astonishment bag birthday brain capital character demand disgrace eagerness 
+	2229	2175	0.08	birds fairies others twins woods	0 0 0 0 0
+	2228	2176	0.08	jolly merry perfect	0 0 0
+	2229	2177	0.08	field fields wood	0 0 0
+	2316	2178	0.08	days minutes months weeks years	0 0 0 0 0
+	2211	2179	0.08	may might shall should	0 0 0 0
+	2229	2180	0.08	cousin daughter sister son	0 0 0 0
+	2229	2181	0.08	added inquired muttered remarked shouted	0 0 0 0 0
+	2293	2182	0.08	$ & 'do ....y 0-448-02741-0 0-448-13721-6 1.50 130 16 1916 25 3 6 8vo .email. a-died
+	2227	2183	0.08	adair alexander allonby barker barrett bedonebyasyoudid blake bowes boyd braddon bre
+	2228	2184	0.08	a-piece a-sitting abiding acacia adjutant-crane adopting advising alive all-round al
+	2295	2185	0.06	bill brooch carpet chain compliment courtship crash defiance distance doorway gale g
+	2316	2186	0.06	animals maiden smoke swallow	0 0 0 0
+	2273	2187	0.06	cynthia isabel josephine sally	0 0 0 0
+	2272	2188	0.06	startled troubled	0 0
+	2295	2189	0.06	actress agent augusta author baron barrier bee buffalo bully career celebration char
+	2271	2190	0.06	evil pink	0 0
+	2316	2191	0.06	calm gentle	0 0
+	2316	2192	0.06	summer winter	0 0
+	2273	2193	0.06	eliza martha olivia	0 0 0
+	2270	2194	0.06	courage food	0 0
+	2316	2195	0.06	pair piece	0 0
+	2316	2196	0.06	dance fight	0 0
+	2316	2197	0.06	acquirement aids akali albert alloway andersen ankus antagonisn appin aristocrats as
+	2265	2198	0.06	fashion manner	0 0
+	2288	2199	0.06	elliott marshall	0 0
+	2316	2200	0.06	dr royal	0 0
+	2316	2201	0.06	ready waiting	0 0
+	0	2202	0.06	come go	0 0
+	2274	2203	0.06	laugh smile	0 0
+	2316	2204	0.06	bread cake	0 0
+	2313	2205	0.06	've hadn't haven't	0 0 0
+	2316	2206	0.06	chair corner	0 0
+	2316	2207	0.06	fool gentleman	0 0
+	2284	2208	0.06	guess suppose	0 0
+	2316	2209	0.06	kind sort	0 0
+	2316	2210	0.06	afraid sure	0 0
+	2315	2211	0.06	'd 'll can can't could couldn't didn't don't may might must shall should will won't 
+	2315	2212	0.06	cannot mustn't needn't shouldn't	0 0 0 0
+	2252	2213	0.06	grandmother jane mark	0 0 0
+	2316	2214	0.06	cries faded loving	0 0 0
+	2316	2215	0.06	charm party wedding	0 0 0
+	2316	2216	0.06	curiosity matters nonsense	0 0 0
+	2295	2217	0.06	letter story tale	0 0 0
+	2282	2218	0.06	begged commanded observed	0 0 0
+	2316	2219	0.06	flat gently hollow	0 0 0
+	2256	2220	0.06	afternoon evening morning night	0 0 0 0
+	2293	2221	0.06	back down home out up	0 0 0 0 0
+	2274	2222	0.06	chuckle claw cry exclamation gasp grin grunt lecture moan roar scream shock shout sh
+	2294	2223	0.06	faint further general sudden	0 0 0 0
+	2268	2224	0.06	chuckled grinned hesitated nodded obeyed smiled	0 0 0 0 0 0
+	2294	2225	0.06	dull fishing grand proper quick square whistle	0 0 0 0 0 0 0
+	2316	2226	0.06	allan ambrose belflower bell bemis bentwell bhaer blacklock blackmore byers callende
+	2316	2227	0.06	abraham adair adelia ahmed aladdin alberta alexander allonby ambassador amelia ameri
+	2293	2228	0.06	a-jangle a-piece a-sitting abashed abeam abiding abominably abroad abrupt absent abs
+	2293	2229	0.06	13th 4 7 .date. .time. a-pressing a.v.i ability abode absence acacias academy accide
+	2309	2230	0.05	darted drifted fled floated galloped hastened hopped leaped marched raced ran rowed 
+	2316	2231	0.05	changing crying laughing sending staying suffering works worrying	0 0 0 0 0 0 0 0
+	2316	2232	0.05	companion friend niece	0 0 0
+	2316	2233	0.05	alec blair fourth pye roger	0 0 0 0 0
+	2316	2234	0.05	announced gasped produced reflected	0 0 0 0
+	2316	2235	0.05	setting wondering	0 0
+	2316	2236	0.05	hoped supposed wished	0 0 0
+	2316	2237	0.05	attend listen pray	0 0 0
+	0	2238	0.05	amuse bless cheer obey punish save serve	0 0 0 0 0 0 0
+	2316	2239	0.05	difference fuss mistake poetry	0 0 0 0
+	0	2240	0.05	paint silk	0 0
+	2316	2241	0.05	afterlight anticipation antics apathy armful bales bewitching blythes boluses braids
+	2316	2242	0.05	babies gods	0 0
+	2316	2243	0.05	barry grant	0 0
+	2316	2244	0.05	ellen worth	0 0
+	2316	2245	0.05	flower treasure	0 0
+	2316	2246	0.05	lad lord	0 0
+	2316	2247	0.05	disappeared vanished	0 0
+	2316	2248	0.05	drink lie	0 0
+	2316	2249	0.05	somebody someone	0 0
+	2316	2250	0.05	note sword	0 0
+	2316	2251	0.05	luck reason	0 0
+	2316	2252	0.05	grandmother jack jane mark	0 0 0 0
+	2316	2253	0.05	pointed sprang	0 0
+	2316	2254	0.05	man woman	0 0
+	2316	2255	0.05	answer reply	0 0
+	2316	2256	0.05	afternoon day evening morning night	0 0 0 0 0
+	2315	2257	0.05	remember understand	0 0
+	0	2258	0.05	isn't wasn't	0 0
+	2316	2259	0.05	closed opened shut	0 0 0
+	2306	2260	0.05	is was	0 0
+	2316	2261	0.05	how why	0 0
+	2316	2262	0.05	enough none plenty	0 0 0
+	2316	2263	0.05	live sleep	0 0
+	2316	2264	0.05	minute moment	0 0
+	2316	2265	0.05	fashion manner tone	0 0 0
+	2300	2266	0.05	.number. chapter	0 0
+	2316	2267	0.05	cheeks ear	0 0
+	2316	2268	0.05	chuckled grinned hesitated laughed nodded obeyed smiled	0 0 0 0 0 0 0
+	2316	2269	0.05	anything everybody everyone nobody nothing something	0 0 0 0 0 0
+	2316	2270	0.05	breakfast courage dinner food fortune supper tea	0 0 0 0 0 0 0
+	2316	2271	0.05	evil gathering killing pink sleeping	0 0 0 0 0
+	2316	2272	0.05	amazed astonished delighted disturbed pleased relieved shocked startled surprised tr
+	2316	2273	0.05	cynthia eliza isabel josephine martha olivia sally	0 0 0 0 0 0 0
+	2316	2274	0.05	chuckle claw cry exclamation gasp grin grunt laugh lecture moan roar scream shock sh
+	2316	2275	0.05	ada avis belinda bennett berton blackley braxton c'rona celia copp cordelia crocker 
+	2316	2276	0.05	english order pieces	0 0 0
+	2316	2277	0.05	alto bewitchment birth-pang borderland christ-child christianity clams clang claymor
+	2316	2278	0.05	gold iron magic	0 0 0
+	2316	2279	0.05	knight lama nurse	0 0 0
+	2316	2280	0.05	dressed locked working	0 0 0
+	2316	2281	0.05	end foot side	0 0 0
+	2316	2282	0.05	begged commanded confessed declared observed	0 0 0 0 0
+	2316	2283	0.05	dog horse sheep	0 0 0
+	2315	2284	0.05	guess hope suppose think	0 0 0 0
+	2316	2285	0.05	basket enemy hole lover search	0 0 0 0 0
+	2316	2286	0.05	accommodation adornments advantages ammonia appearances arches assistance attics auc
+	2316	2287	0.05	case habit line nest picture	0 0 0 0 0
+	2316	2288	0.05	annie's bergman bolivar boo briggs brooks brusquely chemical chicks cistern creeters
+	2316	2289	0.05	belonged bowed desired intended lasted listened rested suffered swore talked waited 
+	2316	2290	0.05	cats friendship milk society	0 0 0 0
+	2316	2291	0.05	body journey neighbors soul	0 0 0 0
+	2316	2292	0.05	begin die happen hurry	0 0 0 0
+	0	2293	0.05	$ & 'do ....y 0-448-02741-0 0-448-13721-6 1.50 130 13th 16 1916 25 3 4 6 7 8vo .date. .
+	2316	2294	0.05	abundant acceptably accountant accused adequate affable after-complaints aisy amazin
+	2316	2295	0.05	abbot acorn actress address admission agent amount anna anniversary arrow aspect ass
+	2316	2296	0.05	beast cow crow deer duck ducks hen maid matter names question servant	0 0 0 0 0 0 0 
+	0	2297	0.03	advanced boiled crouched descended dived dodged fainted groaned howled knelt leapt ling
+	0	2298	0.03	breeze breezes	0 0
+	0	2299	0.03	evidently mighty	0 0
+	0	2300	0.03	.number. bloody chapter dick's forforgetting himhimself ii iii iv ix kristen se underts
+	0	2301	0.03	happened happens occurred suited suits worries	0 0 0 0 0 0
+	0	2302	0.03	picking putting	0 0
+	0	2303	0.03	cost price	0 0
+	0	2304	0.03	does doesn't	0 0
+	0	2305	0.03	and but	0 0
+	0	2306	0.03	's is was	0 0 0
+	0	2307	0.03	mean want	0 0
+	0	2308	0.03	ford gordon moore	0 0 0
+	0	2309	0.03	came darted drifted fled floated galloped hastened hopped leaped marched raced ran rowe
+	0	2310	0.03	're are were	0 0 0
+	0	2311	0.03	few hundred thousand	0 0 0
+	0	2312	0.03	sat sit stood	0 0 0
+	0	2313	0.03	've had hadn't has have haven't	0 0 0 0 0 0
+	0	2314	0.03	ought used wanted wants	0 0 0 0
+	0	2315	0.03	'd 'll believe can can't cannot could couldn't did didn't do don't forget guess hear ho
+	0	2316	0.03	....x 000 12th .url. a a-coming a-going a-hoy a-hunting a-n-n a-n-n-e a-purpose a.v.i.s
