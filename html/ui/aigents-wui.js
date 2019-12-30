@@ -305,18 +305,17 @@ $(function() {
     
     $("#google").click(function(event){
     	event.stopPropagation();
-    	if (!login_menu("#google","Google Plus"))
+    	if (!login_menu("#google","Google"))
     		window.loginGoogleApi();
     });
     
     $("#facebook").click(function(event){
     	event.stopPropagation();
     	if (!login_menu("#facebook","Facebook")){
-	        FB.login(function(response) {
+    		//https://developers.facebook.com/docs/reference/javascript/FB.login/v5.0#permissions
+    		FB.login(function(response) {
 	        	window.facebookStatusChangeCallback(response);
-	        },{});
-	        //TODO: later, when submission is passed for user_posts
-	        //},{scope: 'user_posts'});
+	        }, {scope: 'email,pages_messaging,public_profile,user_posts'});
 	        //TODO: later, when the rest is resolved
         	//},{scope: 'user_posts,user_likes,user_friends'});
     	}
@@ -327,6 +326,15 @@ $(function() {
     	if (!login_menu("#aigents","Aigents")){
     		your_properties();//login
     	}
+    });
+
+    $("#reddit").click(function(event){
+        event.stopPropagation();
+        var reddit_redirect = base_url+"/reddit";
+        var reddit_id = "tp-g-UnxYQsZKw";
+        var session = getCookie('aigent');
+        if (!login_menu("#reddit","Reddit"))
+        	window.location.href = "https://www.reddit.com/api/v1/authorize?client_id="+reddit_id+"&response_type=code&state="+session+"&redirect_uri="+reddit_redirect+"&duration=permanent&scope=identity,read,history";
     });
     
 });
@@ -417,10 +425,12 @@ $(document).ready(function () {
         //displayAction(null);
         hide_menu();
     });
-    $('#google').mouseenter(function() {login_menu("#google","Google Plus");});
+    $('#google').mouseenter(function() {login_menu("#google","Google");});
     $('#facebook').mouseenter(function() {login_menu("#facebook","Facebook");});
     $('#vkontakte').mouseenter(function() {login_menu("#vkontakte","VKontakte");});
     $('#aigents').mouseenter(function() {login_menu("#aigents","Aigents");});
+    $('#reddit').mouseenter(function() {login_menu("#reddit","Reddit");});
+    $('#paypal').mouseenter(function() {login_menu("#paypal","PayPal");});
     localize();
 });
 function timerIncrement() {
@@ -978,7 +988,7 @@ var peer_self_properties = ['email','name','surname',
                        //'secret question','secret answer',
                        //'facebook login',//'vkontakte login',
                        'check cycle', 'items limit', 'trusts limit', 'news limit', 'email notification', 'steemit id', 'golos id', 'ethereum id'];
-var peer_peer_properties = ['name','surname','email','facebook id','google id','vkontakte id'];
+var peer_peer_properties = ['name','surname','email','facebook id','google id','reddit id','vkontakte id'];
 var peer_peer_keys = ['name','surname','email']
 
 function fields(names) {
@@ -1613,15 +1623,16 @@ function peer_obj(data,i,capital){
 	var item = data[i];
 	peer.name = capital ? capitalize(item[1]) : item[1];
 	peer.surname = capital ? capitalize(item[2]) : item[2];
-	if (item[0] && item[0].indexOf("@vk.com") == -1 && item[0].indexOf("@facebook.com") == -1  && item[0].indexOf("@google.com") == -1)
+	if (item[0] && item[0].indexOf("@vk.com") == -1 && item[0].indexOf("@facebook.com") == -1 && item[0].indexOf("@google.com") == -1 && item[0].indexOf("@reddit.com") == -1)
 		peer.email = item[0];
 	peer.share = item[3] ? true : false;
 	peer.facebook = item[4];
-	peer.google = item[6];
 	peer.vkontakte = item[5];
-	peer.editable = !peer.facebook && !peer.google && !peer.vkontakte;
-	peer.relevance = item[7];
-	peer.trust = item[8] ? true : false;
+	peer.google = item[6];
+	peer.reddit = item[7];
+	peer.editable = !peer.facebook && !peer.google && !peer.vkontakte && !peer.reddit;
+	peer.relevance = item[8];
+	peer.trust = item[9] ? true : false;
 	//building name, which can be empty if social id is present only
 	peer.fullname = !AL.empty(peer.name) ? peer.name : null;		
 	if (!AL.empty(peer.surname))
@@ -1649,11 +1660,13 @@ function peers_init(list,data,filter) {//email,name,surname,trust
 		
 		var but = '<div style="float:right;display:inline-block;'+height+'">';
 		if (peer.facebook)
-			but += '<a href="https://facebook.com/'+peer.facebook+'" target="_blank"><img src="/ui/img/fb_logo.png" width="32" height="32"/></a>';
+			but += '<img src="/ui/img/fb_logo.png" width="32" height="32"/>';
 		if (peer.google)
-			but += '<a href="https://plus.google.com/'+peer.google+'" target="_blank"><img src="/ui/img/g+46.png" width="34" height="34"/></a>';
+			but += '<img src="/ui/img/google_icon.png" width="32" height="32"/>';
 		if (peer.vkontakte)
 			but += '<a href="https://vk.com/search?q='+(peer.fullname ? peer.fullname : '')+'" target="_blank"><img src="/ui/img/vk_logo.png" width="34" height="34"/></a>';
+		if (peer.reddit)
+			but += '<a href="https://www.reddit.com/user/'+peer.reddit+'" target="_blank"><img src="/ui/img/reddit.png" width="32" height="32"/></a>';
 		but += '</div>';
 		
 		var html = $('<div style="display:inline-block;'+height+'">'+str+'</div>');
@@ -1739,15 +1752,15 @@ function is_secret(name) {
 }
 
 function peers_refresh() {
-	requestBase("#peers_list","what is peer, friend true email, facebook id, vkontakte id, google id, name, surname, share, relevance, trust?",true);
+	requestBase("#peers_list","what is peer, friend true email, facebook id, vkontakte id, google id, reddit id, name, surname, share, relevance, trust?",true);
 	$('#peers_input').val('');
 }
 
 function edit_peer(item) {
 	var index = $(item)[0].id;
 	var peer = peer_obj(peers_data,index,false);
-	var q = qualifier(peer_peer_properties,[peer.name,peer.surname,peer.email,peer.facebook,peer.google,peer.vkontakte]);
-	var values = [peer.name,peer.surname,peer.email,peer.facebook,peer.google,peer.vkontakte];
+	var q = qualifier(peer_peer_properties,[peer.name,peer.surname,peer.email,peer.facebook,peer.google,peer.reddit,peer.vkontakte]);
+	var values = [peer.name,peer.surname,peer.email,peer.facebook,peer.google,peer.reddit,peer.vkontakte];
 	requestBase(null,'what '+q+' is?',true,function(result){
 		peer.editable= result == 'No right.' ? false: true;
 		dialog_open(_('Peer'),null,peer_peer_properties,peer_peer_properties,values,!peer.editable,function(){
@@ -1816,7 +1829,7 @@ function peers_update(string) {
 	if (!string) 
 		$('#peers_list').empty();
 	else {
-		parseToGrid(peers_data,string,["email", "name", "surname", "share", "facebook id", "vkontakte id", "google id", "relevance", "trust"],",");
+		parseToGrid(peers_data,string,["email", "name", "surname", "share", "facebook id", "vkontakte id", "google id", "reddit id", "relevance", "trust"],",");
 		peers_data.sort(function(a,b){
 			for (var n = 0; n < 3; n ++) {
 				var cmp;
@@ -1907,6 +1920,13 @@ function talks_say_out(text) {
 }
 
 function talks_say_in(text) {
+	if (text.substr(0,6) == "<html>") {
+		var title = AL.parseBetween(text,"<title>","</title>",true);
+		if (!title)
+			title = "Aigents Search Report";
+		popUpReport(title,text,true);//true - use jquery
+		text = "Ok.";//return;
+	}
 	displayStatus(text);
 	$("#talks_log").append('<div class="log-in ui-widget ui-widget-content ui-corner-all">'+text+'</div>');
 	talks_scroll();
@@ -1978,16 +1998,19 @@ function talks_say_out_internal(text) {
 		logout("#facebook_logo");
 		logout("#google_logo");
 		logout("#vkontakte_logo");
+		logout("#reddit_logo");
+		logout("#paypal_logo");
+		logoutlowlevel();
 	}
 }
 
-//TODO:
+var popupMargin = 30;
 //http://stackoverflow.com/questions/2109205/open-window-in-javascript-with-html-inserted
 //http://jqueryui.com/dialog/#default
 function requestReport(provider,name){
 	var title = _("Aigents Report for")+" "+name;
-	var height = $( window ).height() - 30;
-	var width = $( window ).width() - 30;
+	var height = $( window ).height() - popupMargin;
+	var width = $( window ).width() - popupMargin;
     var dialog = $( '#report_dialog' ).dialog({   	 
     	height: height, width: width,
     	top: 15, left: 15,
@@ -2025,6 +2048,47 @@ function requestReport(provider,name){
 	dialog.html(_("Loading..."));    
 }
 
+//TODO: reuse this in requestReport above
+function renderReport(title,html){
+	var height = $( window ).height() - popupMargin;
+	var width = $( window ).width() - popupMargin;
+    var dialog = $( '#report_dialog' ).dialog({   	 
+    	height: height, width: width,
+    	top: 15, left: 15,
+    	autoOpen: false, modal: true
+    });
+    dialog.empty();
+    if (!dialog_envents_bound) {
+    	dialog_envents_bound = true;
+	    dialog.keyup(function (e) {
+	        if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+	            $(this).parent().find("button:eq(1)").trigger("click");
+	            return false;
+	        }
+	    });
+    }
+    dialog.dialog('option', 'title', title);
+    dialog.dialog( "open" );
+    return dialog;
+}
+
+var popupWindow = null;
+function popUpReport(title,html,jquery){
+	if (jquery){
+		//this fits the standard styles BUT makes in not printable AND breaks styles of "x" buttons in lists 
+		renderReport(title).html(html);
+	}else {
+		//http://jennifermadden.com/javascript/window3.html
+		//this make it printable but need to arrange the styles and default window size 
+		var o = $(document.body).offset();
+		var specs = "top="+($(window).scrollTop() + o.top + popupMargin/2)+",left="+($(window).scrollLeft() + o.left + popupMargin/2)+",width="+($(window).width() - popupMargin)+",height="+($(window).height() - popupMargin)+",scrollbars=1,resizable=1";
+		popupWindow = window.open("",title,specs,true)
+		popupWindow.document.open()
+		popupWindow.document.write(html)
+		popupWindow.document.close()
+	}
+}
+
 function loginlowlevel(name,surname){
 	logged_in = true;
 	auto_refreshing = true;
@@ -2060,7 +2124,7 @@ function login_menu(provider,name){
 		var container_position = container.offset();
 		var cw = container.width();
 		var mw = menu.width();
-		var menu_left = provider == '#vkontakte' 
+		var menu_left = provider == '#paypal' 
 			? container_position.left-menu.width()+container.width()
 			: container_position.left-menu.width()/2+container.width()/2;
 		var menu_top = container_position.top+container.height();
@@ -2226,17 +2290,31 @@ function init() {
 	displayAction(null);//TODO: remove legacy?
 	displayPending(0);
 	
+	function update_redirecting_logins(paypal,reddit){
+		if (!AL.empty(paypal))
+			login("#reddit_logo","/ui/img/reddit_grayed.png");
+		if (!AL.empty(reddit))
+			login("#paypal_logo","/ui/img/paypal_icon_no_border_grayed.png");
+	}
+	
 	//check if user is logged in already
 	var current_user = getCookie('username');
-	if (current_user){// use user set by cookie
-		loginlowlevel(current_user);
+	if (current_user){// user user set by cookie
+     	ajax_request('What my reddit id, paypal id?',function(response){
+			var data= [];
+			parseToGrid(data,response.substring(5),['reddit id','paypal id'],",");
+			if (!AL.empty(data))
+				update_redirecting_logins(data[0][0],data[0][1]);
+			loginlowlevel(current_user);
+        },true);//silent	    
 		post_init();
 	}else{//check if user is known by server after redirect with cookie kept in browser
-		requestBase(null,'What my name, surname, login time?',true,function(reply){
+		requestBase(null,'What my name, surname, login time, reddit id, paypal id?',true,function(reply){
 			var data= [];
-			parseToGrid(data,reply.substring(5),['login time','name','surname'],",");
+			parseToGrid(data,reply.substring(5),['login time','name','surname','reddit id','paypal id'],",");
 			if (!AL.empty(data)){//get user upon redirect and use tis context
 				loginlowlevel(capitalize(data[0][1]),capitalize(data[0][2]));
+				update_redirecting_logins(data[0][3],data[0][4]);
 				post_init();
 			} else {//create new context
 				ajax_request('my language '+lang,function(){
@@ -2388,91 +2466,111 @@ function post_init(){
 	    fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 
-	//Google+
-	var updateSignIn = function() {
-		console.log('Google+ update sign in state');
+	//Google
+	//TODO eliminate as not used?
+	/*var updateSignIn = function() {
+		console.log('Google update sign in state');
 		if (auth2.isSignedIn.get()) {
 			window.loginGoogleApi();
 		}else{
 		    console.log('signed out');
 		}
+	}*/
+	//TODO 111
+	function getGoogleUser(response){
+		function primary(a){
+			for (var i = 0; i < a.length; i++)
+				if (a[i].metadata.primary)
+					return a[i];
+		}
+		var user = {};
+		var result = response.result;
+		var profile = primary(result.names);
+		user.name = profile.displayName;
+		user.id = profile.metadata.source.id;
+		user.photo = primary(result.photos).url;
+        //user.email = primary(result.emailAddresses).value;
+		return user;
 	}
 	window.loginGoogleApi = function(){
-		//auth2.grantOfflineAccess({'scope': 'profile email'}).then(function (result){
+		//TODO: get rid of the grantOfflineAccess?
 		auth2.grantOfflineAccess().then(function (result){
-	    	console.log("Google+ grantOfflineAccess: "+JSON.stringify(result));
-	    	/**/
-	    	gapi.client.plus.people.get( {'userId' : 'me'} ).execute(function(profile) {
-		    	console.log('Google+ logged in: '+JSON.stringify(profile));
-		    	if (profile.image)//fails on Safari
-		    		login("#google_logo",profile.image.url);
-	    		var id = profile.id;
-		    	var request = "my google id "+profile.id+", google token '"+result.code+"'.";
-		    	console.log("Google+ : "+request);
-		    	ajax_request(request,function(response){
-			    	console.log('Google+ logged in: '+response);
-		    		if (response.indexOf("Ok.") == 0) {
-		    			talks_say_in(response);
-    					loginlowlevel(parseBetween(response,'Hello ','!'));
-						auto_refresh();
-						if (!profile.image)
-					    	gapi.client.plus.people.get( {'userId' : 'me'} ).execute(function(profile) {
-						    	console.log('Google+ logged in: '+JSON.stringify(profile));
-								if (profile.image)
-									login("#google_logo",profile.image.url);
-							});
-		    		}
-			    });	    
-			});
-			/**/
-	    	/* this works for Chrome and FF but not Safari 
-	    	var request = "my google id unknown, google token '"+result.code+"'.";
-	    	console.log("Google+ : "+request);
-	    	ajax_request(request,function(response){
-		    	console.log('Google+ logged in: '+response);
-	    		if (response.indexOf("Ok.") == 0) {
-	    			talks_say_in(response);
-					loginlowlevel(parseBetween(response,'Hello ','!'));
-					auto_refresh();
-			    	gapi.client.plus.people.get( {'userId' : 'me'} ).execute(function(profile) {
-				    	console.log("Google+ gapi.client.plus.people.get: "+profile);
-				    	console.log('Google+ logged in: '+JSON.stringify(profile));
-						if (profile.image) login("#google_logo",profile.image.url);
-					});
-	    		}
-		    });
-	    	*/
-    	});
+			console.log("Google grantOfflineAccess: "+JSON.stringify(result));
+			var result_code = result.code;
+			//TODO eliminate as not used?
+			/*
+	                var user = gapi.auth2.getAuthInstance().currentUser.get();
+	 		function mineproperty(o,p){
+				if (o && p) for(var propt in o){
+					var v = o[propt];
+					if (propt == p)
+						return v;
+	    				if (v && typeof v === 'object'){
+						v = mineproperty(v,p);				
+						if (v)
+							return v; 
+					}
+				}
+				return null;
+			}
+			var id_token = mineproperty(user,'id_token');
+	                console.log("Goolge id_token "+id_token);
+			*/
+			//TODO: get user id and all the rest stuff just from the user object?
+			if (gapi.client.people){
+				gapi.client.people.people.get({
+	           			'resourceName': 'people/me',
+	           			'personFields': 'names,photos' //,emailAddresses'
+	         		}).then(function(response) {
+	           		console.log(response);
+	           		var user = getGoogleUser(response);
+					console.log(user.id+'/'+user.name+'/'+user.photo);
+			    	var request = "my google id "+user.id+", google token '"+result_code+"'.";
+			    	console.log("Google : "+request);
+			    	ajax_request(request,function(response){
+				    	console.log('Google logged in: '+response);
+			    		if (response.indexOf("Ok.") == 0) {
+			    			talks_say_in(response);
+	    					var realname = parseBetween(response,'Hello ','!');
+							loginlowlevel(realname ? realname : user.name);
+							auto_refresh();
+							login("#google_logo",user.photo);
+			    		}
+				    });
+	         	});
+			}
+		});//auth2.grantOfflineAccess
 	}
-	function startGoogleApi(delay) {
-		gapi.load('auth2', function() {
-			gapi.client.load('plus','v1').then(function() {
-				gapi.auth2.init({
-					fetch_basic_profile: false,
-					scope:'https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profiles.read https://www.googleapis.com/auth/plus.stream.read'
-				}).then(function (){
-		    		console.log('Google+ init');
-		    		auth2 = gapi.auth2.getAuthInstance();
-			        //TODO: turn on when verified and make sure that need both
-		          	//setTimeout(function(){
-		          	//	auth2.isSignedIn.listen(updateSignIn);
-		          	//	auth2.then(updateSignIn());
-		          	//},delay);
-		    	});//init
-			});//load plus
-		});//load auth2
-	}//startGoogleApi
-	
-	//init login processes and news refresh incrementally with delays
-	startGoogleApi(3000);
-	setTimeout(vkontakteAutoLogin,6000);
-	setTimeout(function(){
-		if (!logged_in)
-			news_refresh();
-		else
-			auto_refresh();
-	},9000);
+	window.loginGoogleApiAuto = function(){
+		setTimeout(function(){//hack - wait for access to People API granted
+			if (gapi.client.people){
+				gapi.client.people.people.get({
+	           			'resourceName': 'people/me',
+	           			'personFields': 'names,photos' //,emailAddresses'
+	         		}).then(function(response) {
+	           		console.log('Google auto login response '+response);
+	           		var user = getGoogleUser(response);
+					ajax_request('What my google id?',function(response){
+						var data = [];
+						parseToGrid(data,response.substring(5),['google id'],",");
+						if (!AL.empty(data) && user.id == data[0][0])
+							login("#google_logo",user.photo);
+					},true);//silent	    
+			    });	    
+         	}
+		},1000);//hack - wait for accss to People API granted
+	}
+
+        //init login processes and news refresh incrementally with delays
+        setTimeout(vkontakteAutoLogin,6000);
+        setTimeout(function(){
+                if (!logged_in)
+                        news_refresh();
+                else
+                        auto_refresh();
+        },9000);
 }//post_init()
+
 
 //talking
 var APPNAME = 'Aigents';
@@ -2590,3 +2688,4 @@ function request_search() {
   			talks_say_in(response);
     },true);//silent	    
 }
+
