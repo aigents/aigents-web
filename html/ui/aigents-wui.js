@@ -987,7 +987,7 @@ var peer_self_properties = ['email','name','surname',
                        //'birth date',
                        //'secret question','secret answer',
                        //'facebook login',//'vkontakte login',
-                       'check cycle', 'items limit', 'trusts limit', 'news limit', 'email notification', 'steemit id', 'golos id', 'ethereum id'];
+                       'check cycle', 'items limit', 'trusts limit', 'news limit', 'email notification', 'discourse id', 'steemit id', 'golos id', 'ethereum id'];
 var peer_peer_properties = ['name','surname','email','facebook id','google id','reddit id','vkontakte id'];
 var peer_peer_keys = ['name','surname','email']
 
@@ -1201,13 +1201,13 @@ function add_thing() {
 	var text = $('#things_input').val();
 	if (text && text.length > 0) {
 		$('#things_input').val('');
-		text = AL.toString(text,null);
+		text = quote(AL.toString(text,null));
 		requestBase('#things_list',"My topics "+text+', trusts '+text+'.',false,things_refresh);
 	}else{
 		dialog_open(_('Topic'),null,['name'],null,[''],false, function(){
 			var text = $( '#'+name_to_id( 'name' ) ).val();
 			if (!AL.empty(text)){
-				text = AL.toString(text,null);
+				text = quote(AL.toString(text,null));
 				requestBase('#things_list','My topics '+text+', trusts '+text+'.',false,things_refresh);
 			}
 			return true;
@@ -1254,7 +1254,7 @@ function del_thing() {
 				q += ', ';
 				ignores += ', ';
 			}
-			var thing = AL.toString(name,"name");
+			var thing = quote(AL.toString(name,"name"));
 			q += 'no ' + thing;
 			ignores += thing;
 		});
@@ -1543,11 +1543,57 @@ function contains_insensitive(str,patlower){
 	return str.toLowerCase().indexOf(patlower) != -1;
 }
 
+///////////////////////////////////////TODO: move this out: 1) to separate file, 2) to backend using webmine classifier 
+function get_expression(text, words) {
+	var findings = 0;
+	for (var i = 0; i < words.length; i++){
+		var w = words[i];
+		for (var index = 0;;){
+			var found = text.indexOf(w, index);
+			if (found == -1)
+				break;
+			index = found + 1;
+			findings++;
+		}
+	}
+	return findings;
+}
+
+//111
+var positive_words = ['agreements', 'accepts', 'addressing', 'addresses', 'addressed', 'better', 'can help', 'consulting', 'create new', 'donate', 'enable', 'helping', 'super', 'offer', 'free', 'publish', 'good', 'launch', 'leverage', 'invest', 'interesting', 'number one', 'excellent', 'encourage', 'set up', 'partner', 'popular', 'power', 'privacy', 'popularised', 'released', 'support', 'signed', 'grown into', 'largest', 'easier', 'generate', 'provided', 'roundtable', 'enabled', 'planning', 'set-up', 'built', 'great', 'include', 'ubiquitous', 'unveiled', 'using'];
+var negative_words = ['accident', 'cheat', 'criticize', 'criticizm', 'block', 'bug', 'defiant', 'deficit', 'disinformation', 'censor', 'ban', 'emergency', 'false', 'failed', 'fallout', 'fight', 'hacked', 'lose', 'remove', 'sabotage', 'shut ', 'suspend', 'manipulate', 'outage', 'worse', 'scammer', 'silence', 'mistake', 'worse', 'concern', 'bad',  'pandemic', 'pandemy', 'slammed', 'slamming', 'slighted', 'disable', 'violence', 'war'];
+
+function getEmotions(data,text_pos){
+	emotions = [];
+	var maxpos = 0;
+	var maxneg = 0;
+	for (var i = 0; i < data.length; i ++){
+		var text = data[i][text_pos].toLowerCase();
+		var pos = get_expression(text,positive_words);
+		var neg = get_expression(text,negative_words);
+		if (maxpos < pos)
+			maxpos = pos;
+		if (maxneg < neg)
+			maxneg = neg;
+		emotions[i] = [pos,neg];
+	}
+	if (maxpos > 0) for (var i = 0; i < data.length; i ++)
+		emotions[i][0] = emotions[i][0] * 100 / maxpos;
+	if (maxneg > 0) for (var i = 0; i < data.length; i ++)
+		emotions[i][1] = emotions[i][1] * 100 / maxneg;
+	return emotions;
+}
+///////////////////////////////////////TODO: move this out: 1) to separate file, 2) to backend using webmine classifier 
+
+
 function news_init(list,data,filter) {
 	for (i = 0; i < data.length; i ++){
 		data[i][0] = AL.toNumber(data[i][0]);
 		data[i][1] = AL.toNumber(data[i][1]);
 	}
+
+	var posneg = getEmotions(data,3);//TODO: move this to backend!?
+	
 	news_data.sort(news_data_sort);//TODO:remove sort from other places?
 	$(list).empty();
 	filter = AL.empty(filter)? null : filter.toLowerCase();
@@ -1564,7 +1610,8 @@ function news_init(list,data,filter) {
 		check = $('<input class="news_check" type="checkbox" '+(trust ? 'checked' : '')+'/>');
 		check.change(function(eventObject) {
 			var checked = this.checked;
-			var parent = $(this).parent().parent().parent().parent();//div -> div -> div -> li
+			//var parent = $(this).parent().parent().parent().parent();//div -> div -> div -> li (without sentiment)
+			var parent = $(this).parent().parent().parent().parent().parent().parent();//div -> div -> div -> div -> div -> li (with sentiment)
 			var index = parent[0].id;
 			news_check(list,index,checked);
 			news_refresh_delayed();
@@ -1585,6 +1632,7 @@ function news_init(list,data,filter) {
 			for (var j = 0; j < sources_data.length; j++)
 				sources_html += '<div><a class="news_source" href="'+sources_data[j]+'" target="_blank">'+sources_data[j]+'</a></div>';
 
+		/*
 		var both_relevances = relevance + social_relevance;//full bar size
 		var first_in_both = Math.round(100 * relevance / both_relevances); 
 		
@@ -1596,6 +1644,32 @@ function news_init(list,data,filter) {
 		var social_bar = $('<div class="news_bar" style="background-color:lightgreen;height:1.2em;width:'+both_relevances/2+'%;">')
 			.append(news_bar)
 			.append('</div>');
+			*/
+
+		var positive = posneg[i][0];
+		var negative = posneg[i][1];
+		
+		var all_relevances = relevance + social_relevance + positive + negative;//full bar size
+		var personal_p = Math.round(100 * relevance / (relevance + social_relevance)); 
+		var social_p = Math.round(100 * (relevance + social_relevance) / (relevance + social_relevance + positive)); 
+		var positive_p = Math.round(100 * (relevance + social_relevance + positive) / all_relevances); 
+		var negative_p = Math.round(all_relevances / 4); 
+		
+		var date = $('<div class="news_date">').append(_(times)).append('</div><br>');
+		var check_and_date = $('<div>').append(check).append(date).append("</div>");
+		var news_bar = $('<div class="news_bar" style="overflow:visible;background-color:lightblue;height:1.2em;width:'+personal_p+'%;">')
+			.append(check_and_date)
+			.append('</div>');
+		var social_bar = $('<div class="news_bar" style="overflow:visible;background-color:wheat;height:1.2em;width:'+social_p+'%;">')
+			.append(news_bar)
+			.append('</div>');
+		var positive_bar = $('<div class="news_bar" style="overflow:visible;background-color:lightgreen;height:1.2em;width:'+positive_p+'%;">')
+		.append(social_bar)
+		.append('</div>');
+		var negative_bar = $('<div class="news_bar" style="background-color:lightpink;height:1.2em;width:'+negative_p+'%;">')
+		.append(positive_bar)
+		.append('</div>');
+		
 
 		//TODO: if authorized (not public)
 		//trying to cleanup and attach image
@@ -1622,7 +1696,8 @@ function news_init(list,data,filter) {
 		
 		var news_row = $('<li id='+i+' class="ui-widget-content">')
 		.append(del_button)
-		.append(social_bar)
+		//.append(social_bar)
+		.append(negative_bar)
 		.append(textsource)
 		.append('</li>')
 		.appendTo(list);		
