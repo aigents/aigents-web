@@ -2,6 +2,7 @@
 <head>
 
 <title>Aigents</title>
+<meta name="description" content="Providing each Internet user with an individual intelligent software agent for searching and analyzing information on the Web."/>
 <meta name="norton-safeweb-site-verification" content="zxl582egesdh2aytioxxw1a72tmvyiuu2h-vlrfl0wuirir6zunf6428af8jacsttw0hyr5fvmzgsa69i-q5fq2aloex-nw6ibajuhla5ii307fa1fjj105vgz1f9pkn" />
 <meta name="yandex-verification" content="718565c2a9350efd" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -14,11 +15,11 @@
   <script type="text/javascript" src="/ui/aigents-settings.js?411"></script>
   <script type="text/javascript" src="/ui/aigents-al.js?402"></script>
   <script type="text/javascript" src="/ui/aigents-speech.js?401"></script>
-  <script type="text/javascript" src="/ui/aigents-locales.js?441"></script>
-  <script type="text/javascript" src="/ui/aigents-graph.js?441"></script>
-  <script type="text/javascript" src="/ui/aigents-gui.js?441"></script>
-  <script type="text/javascript" src="/ui/aigents-map.js?441"></script>
-  <script type="text/javascript" src="/ui/aigents-wui.js?454"></script>
+  <script type="text/javascript" src="/ui/aigents-locales.js?445"></script>
+  <script type="text/javascript" src="/ui/aigents-graph.js?445"></script>
+  <script type="text/javascript" src="/ui/aigents-gui.js?448"></script>
+  <script type="text/javascript" src="/ui/aigents-map.js?457"></script>
+  <script type="text/javascript" src="/ui/aigents-wui.js?461"></script>
   <meta property="og:title" content="Aigents for everyone"/>
   <meta property="og:description" content="Aigents - helping to monitor, extract, evaluate and share information on the Internet, adjusting to your needs and learning the preferences."/>
   <meta property="og:image" content="http://aigents.com/img/aigents-find-share.jpg"/>
@@ -162,6 +163,12 @@ function microphone_input(input){
 		<div id="google" class="menu-button">
 			<img id="google_logo" src="/ui/img/google_icon.png" title="Signin/signout with Google and get personal report via menu" style="cursor:pointer" width="32" height="32"/>
 		</div>
+		<div id="twitter" class="menu-button">
+			<img id="twitter_logo" src="/ui/img/twitter_logo.png" title="Log in with Twitter" style="cursor:pointer" width="32" height="32"/>
+		</div>
+		<div id="reddit" class="menu-button">
+			<img id="reddit_logo" src="/ui/img/reddit.png" title="Connect with us on Reddit" style="cursor:pointer" width="34" height="34"/>
+		</div>
 		<div id="facebook" class="menu-button">
 			<img id="facebook_logo" src="/ui/img/fb_logo.png" title="Signin/signout with Facebook and get personal report via menu" style="cursor:pointer" width="32" height="32"/>
 		</div>
@@ -177,22 +184,9 @@ function microphone_input(input){
 		<div id="slack" class="menu-button"><a href="/en/slack.html" target="_blank"  style="text-decoration:none">
 			<img id="slack_logo" src="/ui/img/slack_logo.png" title="Connect with us on Slack" style="cursor:pointer" width="34" height="34"/>
 		</a></div>
-		<div id="reddit" class="menu-button">
-			<img id="reddit_logo" src="/ui/img/reddit.png" title="Connect with us on Reddit" style="cursor:pointer" width="34" height="34"/>
-<!--
-			<span id="reddit_logo" title="Connect with us on Reddit" style="cursor:pointer">
-			<svg xmlns="http://www.w3.org/2000/svg" width=34 height=34 viewBox="0 0 20 20" class="_1O4jTk-dZ-VIxsCuYB6OR8"><g><circle fill="#FF4500" cx="10" cy="10" r="10"></circle><path fill="#FFF" d="M16.67,10A1.46,1.46,0,0,0,14.2,9a7.12,7.12,0,0,0-3.85-1.23L11,4.65,13.14,5.1a1,1,0,1,0,.13-0.61L10.82,4a0.31,0.31,0,0,0-.37.24L9.71,7.71a7.14,7.14,0,0,0-3.9,1.23A1.46,1.46,0,1,0,4.2,11.33a2.87,2.87,0,0,0,0,.44c0,2.24,2.61,4.06,5.83,4.06s5.83-1.82,5.83-4.06a2.87,2.87,0,0,0,0-.44A1.46,1.46,0,0,0,16.67,10Zm-10,1a1,1,0,1,1,1,1A1,1,0,0,1,6.67,11Zm5.81,2.75a3.84,3.84,0,0,1-2.47.77,3.84,3.84,0,0,1-2.47-.77,0.27,0.27,0,0,1,.38-0.38A3.27,3.27,0,0,0,10,14a3.28,3.28,0,0,0,2.09-.61A0.27,0.27,0,1,1,12.48,13.79Zm-0.18-1.71a1,1,0,1,1,1-1A1,1,0,0,1,12.29,12.08Z"></path></g></svg>
-			</span>
--->
-		</div>
 		<div id="paypal" class="menu-button"><a href="/en/paypal.html" target="_self" style="text-decoration:none">
 			<img id="paypal_logo" src="/ui/img/paypal_icon_no_border.png" title="Connect with us on Paypal" style="cursor:pointer" width="34" height="34"/>
 		</a></div>
-		<!--
-		<div id="twitter">
-			<img id="twitter_logo" src="/ui/img/twitter_logo.png" title="Login via Twitter" style="cursor:pointer" width="32" height="32"/>
-		</div>
-		-->
 	</div>
 </div>
 <!-- menu-bar -->
@@ -377,13 +371,13 @@ function microphone_input(input){
 			-->
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/4Nwb_ReB0Z4" frameborder="0" allowfullscreen></iframe>
-				<b>Cognitive model: </b>A. Kolonin, "Computable cognitive model based on social evidence and restricted by resources", 2015 SIBIRCON/SibMedInfo Conference Proceedings, ISBN 987-1-4673-9109-2, pp.41-45: <a href="http://aigents.com/papers/2015/Kolonin-Computable-cognitive-model-SIBIRCON-2015-slides.pdf" target="_blank">presentation</a> and <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361869" target="_blank">paper</a>.
+				<b>Cognitive model: </b>A. Kolonin, "Computable cognitive model based on social evidence and restricted by resources", 2015 SIBIRCON/SibMedInfo Conference Proceedings <a href="http://aigents.com/papers/2015/Kolonin-Computable-cognitive-model-SIBIRCON-2015-slides.pdf" target="_blank">presentation</a> and <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361869" target="_blank">paper</a>.
 				<br>(technology)
 			</li>
 			</li>
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/pjlhBld8zMc" frameborder="0" allowfullscreen></iframe>
-				<b>Text processing: </b>A. Kolonin, "Automatic text classification and property extraction", 2015 SIBIRCON/SibMedInfo Conference Proceedings, ISBN 987-1-4673-9109-2, pp.27-31: <a href="http://aigents.com/papers/2015/Kolonin-Automatic-text-classification-and-property-extraction-SIBIRCON-2015-slides.pdf" target="_blank">presentation</a> and <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361868" target="_blank">paper</a>.
+				<b>Text processing: </b>A. Kolonin, "Automatic text classification and property extraction", 2015 SIBIRCON/SibMedInfo Conference Proceedings <a href="http://aigents.com/papers/2015/Kolonin-Automatic-text-classification-and-property-extraction-SIBIRCON-2015-slides.pdf" target="_blank">presentation</a> and <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361868" target="_blank">paper</a>.
 				<br>(technology)
 			</li>
 			<!--
@@ -420,11 +414,11 @@ function microphone_input(input){
 			-->
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/wx9N_16lXvs" frameborder="0" allowfullscreen></iframe>
-				<b>Когнитивная модель: </b>A. Kolonin, "Computable cognitive model based on social evidence and restricted by resources", 2015 SIBIRCON/SibMedInfo Conference Proceedings, ISBN 987-1-4673-9109-2, pp.41-45: <a href="http://aigents.com/papers/2015/Kolonin-Computable-cognitive-model-SIBIRCON-2015-slides.pdf" target="_blank">презентация</a> и <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361869" target="_blank">статья</a>.
+				<b>Когнитивная модель: </b>A. Kolonin, "Computable cognitive model based on social evidence and restricted by resources", 2015 SIBIRCON/SibMedInfo Conference Proceedings <a href="http://aigents.com/papers/2015/Kolonin-Computable-cognitive-model-SIBIRCON-2015-slides.pdf" target="_blank">презентация</a> и <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361869" target="_blank">статья</a>.
 				(технология)
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/cR8wogtWpNQ" frameborder="0" allowfullscreen></iframe>
-				<b>Обработка текстов: </b>A. Kolonin, "Automatic text classification and property extraction", 2015 SIBIRCON/SibMedInfo Conference Proceedings, ISBN 987-1-4673-9109-2, pp.27-31: <a href="http://aigents.com/papers/2015/Kolonin-Automatic-text-classification-and-property-extraction-SIBIRCON-2015-slides.pdf" target="_blank">презентация</a> и <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361868" target="_blank">статья</a>.
+				<b>Обработка текстов: </b>A. Kolonin, "Automatic text classification and property extraction", 2015 SIBIRCON/SibMedInfo Conference Proceedings <a href="http://aigents.com/papers/2015/Kolonin-Automatic-text-classification-and-property-extraction-SIBIRCON-2015-slides.pdf" target="_blank">презентация</a> и <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7361868" target="_blank">статья</a>.
 				(технология)
 			</li>
 			<!--
@@ -446,7 +440,7 @@ function microphone_input(input){
 		<!-- News -->
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/5Pi973JPbZA" frameborder="0" allowfullscreen></iframe>
-				<b>IMCIC 2019: </b>A.Kolonin, "Reputation Systems for Human-Computer Environments", In: Complexity, Informatics and Cybernetics: IMCIC 2019, conference materials, Orlando, Florida, USA, 2019 
+				<b>IMCIC 2019: </b>A.Kolonin, "Reputation Systems for Human-Computer Environments", In: Complexity, Informatics and Cybernetics: IMCIC 2019, conference materials, Orlando, Florida 
 				- <a href="https://aigents.com/papers/2019/Reputation-Systems-for-Online-Communities-2019.pdf" target="_blank">presentation</a> and 
 				<a href="https://aigents.com/papers/2019/ReputationSystemsForHumanComputerEnvironmentsIMCIC2019.pdf" target="_blank">paper</a>.
 				<br>(news)
@@ -461,8 +455,7 @@ function microphone_input(input){
 			</li>
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/NfS3LTcFm1k" frameborder="0" allowfullscreen></iframe>
-				<b>SSDE-2017: </b>A.Kolonin, "Assessment of personal environments in social networks", Data Science and Engineering (SSDSE), 2017 Siberian Symposium Proceedings,
-				INSPEC Accession Number: 17262023, DOI: 10.1109/SSDSE.2017.8071965, Publisher: IEEE 
+				<b>SSDE-2017: </b>A.Kolonin, "Assessment of personal environments in social networks", Data Science and Engineering (SSDSE), 2017 Siberian Symposium Proceedings 
 				- <a href="http://aigents.com/papers/2017/Aigents-News-Analytics-2017-en.pdf" target="_blank">presentation</a> and 
 				<a href="http://ieeexplore.ieee.org/document/8071965/" target="_blank">paper</a>.
 				<br>(news)
@@ -474,7 +467,7 @@ function microphone_input(input){
 			</li>
 			<li class="ui-widget-content">
 				<a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank"><img src="../papers/2016/BICA-2016-poster.png" alt="BICA-2016 poster" width="226" height="164" ></img></a>	
-				<b>BICA-2016: </b>A.Kolonin, E.Vityaev, Y.Orlov,<br>"Cognitive Architecture of Collective Intelligence based on Social Evidence", 7th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2016, July 2016, NY, USA: <a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank">paper</a> 
+				<b>BICA-2016: </b>A.Kolonin, E.Vityaev, Y.Orlov,<br>"Cognitive Architecture of Collective Intelligence based on Social Evidence", 7th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2016, USA: <a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank">paper</a> 
 				<br>(news)
 			</li>
 			<li class="ui-widget-content">
@@ -503,7 +496,6 @@ function microphone_input(input){
 			<li class="ui-widget-content">
 				<iframe width="280" height="158" src="https://www.youtube.com/embed/2ti3Gquev6g" frameborder="0" allowfullscreen></iframe>
 				<b>SSDE-2017: </b>A.Kolonin, "Assessment of personal environments in social networks", Data Science and Engineering (SSDSE), 2017 Siberian Symposium Proceedings,
-				INSPEC Accession Number: 17262023, DOI: 10.1109/SSDSE.2017.8071965, Publisher: IEEE 
 				- <a href="http://aigents.com/papers/2017/Aigents-News-Analytics-2017-en.pdf"  target="_blank">презентация</a> и 
 				<a href="http://ieeexplore.ieee.org/document/8071965/"  target="_blank">статья</a>.
 				(новости)
@@ -520,7 +512,7 @@ function microphone_input(input){
 			</li>
 			<li class="ui-widget-content">
 				<a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank"><img src="../papers/2016/BICA-2016-poster.png" alt="BICA-2016 poster" width="226" height="164" ></img></a>	
-				<b>BICA-2016: </b>О когнитивной архитектуре коллективного интеллекта - A.Kolonin, E.Vityaev, Y.Orlov, "Cognitive Architecture of Collective Intelligence based on Social Evidence", 7th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2016, July 2016, NY, USA: <a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank">статья</a>.
+				<b>BICA-2016: </b>О когнитивной архитектуре коллективного интеллекта - A.Kolonin, E.Vityaev, Y.Orlov, "Cognitive Architecture of Collective Intelligence based on Social Evidence", 7th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2016, USA: <a href="http://www.sciencedirect.com/science/article/pii/S1877050916317239" target="_blank">статья</a>.
 				(новости)
 			</li>
 			<li class="ui-widget-content">
@@ -536,8 +528,9 @@ function microphone_input(input){
    				<b>Medium: </b><a href="https://medium.com/@aigents" target="_blank">https://medium.com/@aigents</a><br>
    				<b>Youtube: </b><a href="https://www.youtube.com/aigents" target="_blank">https://www.youtube.com/aigents</a><br>
    				<b>Twitter: </b><a href="https://twitter.com/@aigents" target="_blank">https://twitter.com/@aigents</a><br>
+   				<b>Reddit: </b><a href="https://www.reddit.com/r/aigents" target="_blank">https://www.reddit.com/r/aigents</a><br>
    				<b>Steemit: </b><a href="https://steemit.com/@aigents" target="_blank">https://steemit.com/@aigents</a><br>
-   				<b>Голос: </b><a href="https://golos.blog/@aigents" target="_blank">https://golos.blog/@aigents</a><br>
+   				<b>Голос: </b><a href="https://golos.id/@aigents" target="_blank">https://golos.id/@aigents</a>, <a href="https://golos.io/@aigents" target="_blank">https://golos.io/@aigents</a><br>
    				<b>ВКонтакте: </b><a href="https://vk.com/aigents" target="_blank">https://vk.com/aigents</a><br>
    				<b>Telegram: </b>akolonin, <b>Skype: </b>akolonin, <b>E-mail: </b><img  style="float:none;vertical-align:bottom;margin-bottom:0;" src="/img/contactataigents.png"><br>(contacts, контакты)
   			</li>
@@ -653,6 +646,9 @@ function microphone_input(input){
 					<div id="map_discourse" class="map-button">
 						<img id="map_discourse_logo" src="/ui/img/singularitynet.png" title="Display social environment at SingularityNET Discourse forum" width="34" height="34"/>
 					</div>
+					<div id="map_telegram" class="map-button">
+						<img id="map_telegram_logo" src="/ui/img/telegram_square.png" title="Display social environment at Telegram" width="34" height="34"/>
+					</div>
 					<div id="map_steemit" class="map-button">
 						<img id="map_steemit_logo" src="/ui/img/steemit_logo_new.png" title="Display social environment at Steemit" width="34" height="34"/>
 					</div>
@@ -708,9 +704,15 @@ function microphone_input(input){
 </ul>
 <ul id="aigents_menu" style="display:none;z-index:100;">
 	<li class="ui-state-disabled">Aigents</li>
+	<li id="aigents_report" title="Aigents activity report">Report</li>
 	<li id="aigents_subscription" title="Paid subscription information">Subscription</li>
 	<li id="aigents_profile" title="Personal settings">Settings</li>
 	<li id="aigents_logout" title="Signout from all accounts">Logout</li>
+</ul>
+<ul id="twitter_menu" style="display:none;z-index:100;">
+	<li class="ui-state-disabled">Twitter</li>
+	<li id="twitter_report" title="Twitter activity report">Report</li>
+	<li id="twitter_logout" title="Signout from all accounts">Logout</li>
 </ul>
 <ul id="reddit_menu" style="display:none;z-index:100;">
 	<li class="ui-state-disabled">Reddit</li>

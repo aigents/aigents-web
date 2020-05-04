@@ -337,6 +337,12 @@ $(function() {
         	window.location.href = "https://www.reddit.com/api/v1/authorize?client_id="+reddit_id+"&response_type=code&state="+session+"&redirect_uri="+reddit_redirect+"&duration=permanent&scope=identity,read,history";
     });
     
+    $("#twitter").click(function(event){
+        event.stopPropagation();
+        if (!login_menu("#twitter","Twitter"))
+        	window.location.href = base_url+"/twitter?login";
+    });
+    
 });
 
 function get_locale() {
@@ -431,6 +437,7 @@ $(document).ready(function () {
     $('#aigents').mouseenter(function() {login_menu("#aigents","Aigents");});
     $('#reddit').mouseenter(function() {login_menu("#reddit","Reddit");});
     $('#paypal').mouseenter(function() {login_menu("#paypal","PayPal");});
+    $('#twitter').mouseenter(function() {login_menu("#twitter","Twitter");});
     localize();
 });
 function timerIncrement() {
@@ -2173,9 +2180,10 @@ function talks_say_out(text) {
 function talks_say_in(text) {
 	if (text.substr(0,6) == "<html>") {
 		var title = AL.parseBetween(text,"<title>","</title>",true);
+		var body = AL.parseBetween(text,"<body>","</body>",true);
 		if (!title)
 			title = "Aigents Search Report";
-		popUpReport(title,text,true);//true - use jquery
+		popUpReport(title,body,true);//true - use jquery
 		text = "Ok.";//return;
 	}
 	displayStatus(text);
@@ -2340,12 +2348,15 @@ function popUpReport(title,html,jquery){
 	}
 }
 
-function update_redirecting_logins(paypal,reddit){
+function update_redirecting_logins(paypal,reddit,twitter,reddit_image,twitter_image){
 	if (!AL.empty(paypal))
-		login("#reddit_logo","/ui/img/reddit_grayed.png");
-	if (!AL.empty(reddit))
 		login("#paypal_logo","/ui/img/paypal_icon_no_border_grayed.png");
+	if (!AL.empty(reddit))
+		login("#reddit_logo",reddit_image ? reddit_image : "/ui/img/reddit_grayed.png");
+	if (!AL.empty(twitter))
+		login("#twitter_logo",twitter_image ? twitter_image : "/ui/img/paypal_icon_no_border_grayed.png");
 }
+//var is_root = false;
 function loginlowlevel(name,surname,no_refresh){
 	logged_in = true;
 	auto_refreshing = true;
@@ -2359,11 +2370,14 @@ function loginlowlevel(name,surname,no_refresh){
 	document.getElementById("aigents_logo").src = '/ui/img/aigent32left.png';
 	ajax_request('my language '+get_language(),function(){},true);//silent
 	if (!no_refresh)//if no need to refresh redirectig logins 
-     	ajax_request('What my reddit id, paypal id?',function(response){
+     	ajax_request('What my paypal id, reddit id, twitter id, reddit image, twitter image?',function(response){
 			var data= [];
-			parseToGrid(data,response.substring(5),['reddit id','paypal id'],",");
+			parseToGrid(data,response.substring(5),['reddit id','paypal id','twitter id', 'reddit image', 'twitter image'],",");
 			if (!AL.empty(data))
-				update_redirecting_logins(data[0][0],data[0][1]);
+				update_redirecting_logins(data[0][0],data[0][1],data[0][2],data[0][3],data[0][4]);
+	     	//ajax_request('What your trusts?',function(response){
+	     	//	is_root = response.startsWith('My trusts ');
+	     	//},true);
         },true);//silent	    
 }
 function logoutlowlevel(){
