@@ -7,7 +7,7 @@
   <script src="/ui/jquery-1.11.1.js"></script>
   <script src="/ui/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
   <script type="text/javascript" src="/ui/aigents-al.js?20"></script>
-  <script type="text/javascript" src="/ui/aigents-graph.js?21"></script>
+  <script type="text/javascript" src="/ui/aigents-graph.js?24"></script>
 </head>
 
 <!-- Styles needed for Aigents Graph -->
@@ -29,7 +29,7 @@ button {margin-left:10px;margin-top:10px;}
 
 <script>
 /*
-Copyright 2018-2020 Anton Kolonin, Aigents®
+Copyright 2018-2021 Anton Kolonin, Aigents®
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -128,8 +128,6 @@ mary likes bob 0.5
 mary visits facebook 0.9
 nil likes bob 0.4
 pam likes nil 0.3
-sue likes pam 0.2
-tom likes sue 0.1
 bob is person
 mary is person
 jane is person
@@ -142,6 +140,10 @@ steemit image https://aigents.com/ui/img/steemit_logo_new.png
 facebook image https://aigents.com/ui/img/fb_logo.png
 ethereum image https://aigents.com/ui/img/eth32.png
 googleplus image https://aigents.com/ui/img/google_icon.png
+steemit url https://steemit.com
+facebook url https://facebook.com
+nil label "Nick Rock'n'Roll🙏"
+pam label 'Pam "Pamela"🙏'
 </textarea>
 <button id="do_custom_graph_inline" onclick="do_custom_graph_inline()"><b>Draw inline</b></button> 
 <br>

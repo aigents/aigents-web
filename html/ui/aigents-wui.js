@@ -1,5 +1,5 @@
 /*
-Copyright 2018-2020 Anton Kolonin, Aigents®
+Copyright 2018-2021 Anton Kolonin, Aigents®
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -591,7 +591,7 @@ function trusts_menu(event) {
     		else
     			//use data instead of element text because it may be escaped incorrectly
     			//q = 'name '+AL.toString(element.text(),name)+' trust ' + (!checked ? 'true' : 'false') + '.';
-				q = 'name '+AL.toString(menu_data[index][0],name)+' trust ' + (!checked ? 'true' : 'false') + '.';
+				q = 'name '+AL.toString(menu_data[index][0],'name')+' trust ' + (!checked ? 'true' : 'false') + '.';
 			cmd += q;
     	}});
 		requestBase(null,cmd);
@@ -791,7 +791,7 @@ function trusts_init(list,data,filter) {
 			data[id][1] = this.checked;
  			//use data instead of element text because it may be escaped incorrectly
 			//var q = 'name '+AL.toString($(this).parent().text(),name)+' trust ' + (this.checked ? 'true' : 'false') + '.';
-			var q = 'name '+AL.toString(data[id][0],name)+' trust ' + (this.checked ? 'true' : 'false') + '.';
+			var q = 'name '+AL.toString(data[id][0],'name')+' trust ' + (this.checked ? 'true' : 'false') + '.';
 			requestBase(null,q);
 			trusts_sort(list);
 //TODO:ensure it is not needed!

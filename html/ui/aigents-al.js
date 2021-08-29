@@ -1,5 +1,5 @@
 /*
-Copyright 2018-2020 Anton Kolonin, Aigents®
+Copyright 2018-2021 Anton Kolonin, Aigents®
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -149,12 +149,13 @@ var Schema = {
 	_true : "true",
 	text : "text",
 	email_password : "email password",
+	name : "name",
 	boolean : function(name) {
 		return name == this.trust || name == this.share;
 	},
 	quotable : function(name) {
 		var lower = name.toLowerCase();
-		return lower == this.email_password || lower == this.text;
+		return lower == this.email_password || lower == this.text || lower == this.name;
 	}	
 };
 
