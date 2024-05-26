@@ -1,0 +1,34 @@
+<style type="text/css">
+
+select {font.size:50%;font-family:courier}
+textarea {font.size:50%;font-family:courier}
+body {background:#ffffd8}
+
+/* aligned left
+.canvas {width:540;height:520;position: relative;}
+*/
+/* aligned center - "margin:0 auto;" supposed to center in brower but does not work well on same mobiles */
+.canvas {width:540;height:520;margin:0 auto;position: relative;}
+
+.banner {position:absolute;left:2;top:25;z-index:1;}
+.content {position:absolute;left:0;top:0;background:url(http://aigents.com/img/aigent540-500wb.png);width:540;height:500;z-index:0;}
+.index {position:absolute;left:440;top:300;}
+.copyright {position:absolute;left:220;top:500;width:200;font-size:9;color:#9a8576}
+.copyrightbottom {font-size:9;color:#9a8576;font-family: Verdana,Arial,sans-serif;color:#2191c0;}
+
+/* aligned left
+.atext {width:540;font-family:serif;color: #66320d;}
+*/
+/* aligned center */
+.atext {width:540;margin:0 auto;position: relative;font-family:serif;color: #66320d;}
+.a2text {max-width:680;margin:0 auto;position: relative;font-family:serif;color: #66320d;font-family: Verdana,Arial,sans-serif;color:#2191c0;}
+
+.abody {position:absolute;left:217;top:137;font-size:14;width:192;font-family:serif;color: #66320d;}
+.ahead {position:absolute;left:390;top:55;font-size:14;width:130;font-family:serif;text-align:center;color: #66320d;}
+.lefthand {position:absolute;left:215;top:30;font-size:14;width:80;font-family:serif;text-align:center;color: #66320d;}
+.leftleg {position:absolute;left:25;top:225;font-size:14;width:80;font-family:serif;text-align:center;color: #66320d;}
+.rightleg {position:absolute;left:115;top:410;font-size:14;width:130;font-family:serif;text-align:center;color: #66320d;}
+.righthand {position:absolute;left:362;top:430;font-size:14;width:100;font-family:serif;text-align:center;color: #66320d;}
+.aside {position:absolute;left:0;top:350;font-size:14;width:100;height:75px;padding-top:25px;font-family:serif;text-align:center;color: #66320d;background-image:url(../img/round-aside.png);}
+
+</style>
