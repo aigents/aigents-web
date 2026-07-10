@@ -2453,10 +2453,12 @@ function login_menu(provider,name){
 
 function login(provider_logo,url){
 	var e = $(provider_logo).get(0);
-	e.logged = true;
-	if (!e.backup_src)
-		e.backup_src = $(provider_logo).get(0).src;
-	$(provider_logo).attr("src", url);
+	if (e){
+		e.logged = true;
+		if (!e.backup_src)
+			e.backup_src = $(provider_logo).get(0).src;
+		$(provider_logo).attr("src", url);
+	}
 }
 
 function logout(provider_logo){
@@ -2706,6 +2708,7 @@ function post_init(){
 	}
 	
 	//FB
+	/* disabled 20260708
 	window.facebookStatusChangeCallback = function(response) {
 	    console.log('Facebook:');
 	    console.log(response);
@@ -2752,8 +2755,10 @@ function post_init(){
 	    js.src = "//connect.facebook.net/en_US/sdk.js";
 	    fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
+	*/
 
 	//Google
+	/* disabled 20260708
 	function getGoogleUser(response){
 		function primary(a){
 			for (var i = 0; i < a.length; i++)
@@ -2816,6 +2821,7 @@ function post_init(){
          	}
 		},1000);//hack - wait for accss to People API granted
 	}
+	*/
 
         //init login processes and news refresh incrementally with delays
         setTimeout(vkontakteAutoLogin,6000);
